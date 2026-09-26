@@ -1,0 +1,49 @@
+- generic [ref=e1259]:
+  - complementary [ref=e1260]:
+    - generic [ref=e1261]:
+      - generic [ref=e1262]:
+        - img "Logo" [ref=e1263]
+        - generic [ref=e1264]: ABM TaskIQ Portal
+      - generic [ref=e1265]:
+        - generic [ref=e1266]: A
+        - strong [ref=e1268]: Admin
+    - navigation [ref=e1269]:
+      - button "Dashboard" [ref=e1270] [cursor=pointer]
+      - button "Approvals" [ref=e1276] [cursor=pointer]
+      - button "Browse" [ref=e1281] [cursor=pointer]
+      - button "Add Knowledge Post" [ref=e1285] [cursor=pointer]
+      - button "Knowledge Base" [ref=e1287] [cursor=pointer]
+      - button "Recommended" [ref=e1290] [cursor=pointer]
+      - button "Bookmarks" [ref=e1293] [cursor=pointer]
+      - button "Knowledge Assistant" [ref=e1297] [cursor=pointer]
+      - button "Manage Taxonomy" [ref=e1300] [cursor=pointer]
+      - button "Users" [ref=e1305] [cursor=pointer]
+      - button "Role Management" [ref=e1318] [cursor=pointer]
+      - button "Role Assign" [ref=e1322] [cursor=pointer]
+      - button "Site Settings" [ref=e1327] [cursor=pointer]
+      - button "Notifications 3" [ref=e1331] [cursor=pointer]:
+        - text: Notifications
+        - generic [ref=e1335]: "3"
+    - button "Logout" [ref=e1337] [cursor=pointer]
+  - main [ref=e1341]:
+    - generic [ref=e2042]: Site settings saved successfully.
+    - generic [ref=e2005]:
+      - generic [ref=e2007]:
+        - generic [ref=e2008]: System Configuration
+        - generic [ref=e2009]:
+          - heading "Site Settings & Branding" [level=1] [ref=e2010]
+          - paragraph [ref=e2011]: Customize portal name, brand logo, and favicon.
+      - generic [ref=e2013]:
+        - generic [ref=e2014]:
+          - generic [ref=e2015]: Portal Name *
+          - textbox [ref=e2016]: ABM TaskIQ Portal
+        - generic [ref=e2017]:
+          - generic [ref=e2018]:
+            - generic [ref=e2019]: Portal Logo
+            - button "Choose File" [ref=e2024]
+            - img "Portal Logo" [ref=e2026]
+          - generic [ref=e2027]:
+            - generic [ref=e2028]: Favicon
+            - button "Choose File" [ref=e2033]
+            - img "Favicon" [ref=e2035]
+        - button "Save Settings" [ref=e2037] [cursor=pointer]

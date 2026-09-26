@@ -1,0 +1,70 @@
+- generic [ref=e2743]:
+  - complementary [ref=e2744]:
+    - generic [ref=e2745]:
+      - generic [ref=e2746]:
+        - img "Logo" [ref=e2747]
+        - generic [ref=e2748]: ABM TaskIQ Portal
+      - generic [ref=e2749]:
+        - generic [ref=e2750]: GG
+        - generic [ref=e2751]:
+          - strong [ref=e2752]: Gaurav Gaikwad
+          - generic [ref=e2753]: Development Team
+    - navigation [ref=e2754]:
+      - button "Home" [ref=e2755] [cursor=pointer]
+      - button "My Knowledge" [ref=e2759] [cursor=pointer]
+      - button "Browse" [ref=e2763] [cursor=pointer]
+      - button "Submit Knowledge" [ref=e2767] [cursor=pointer]
+      - button "Knowledge Base" [ref=e2769] [cursor=pointer]
+      - button "Recommended" [ref=e2772] [cursor=pointer]
+      - button "Bookmarks" [ref=e2775] [cursor=pointer]
+      - button "Knowledge Assistant" [ref=e2779] [cursor=pointer]
+      - button "Notifications 1" [ref=e2782] [cursor=pointer]:
+        - text: Notifications
+        - generic [ref=e2786]: "1"
+    - button "Logout" [ref=e2788] [cursor=pointer]
+  - main [ref=e2792]:
+    - generic [ref=e3329]:
+      - generic [ref=e3331]:
+        - generic [ref=e3332]: Knowledge Contribution
+        - generic [ref=e3333]:
+          - heading "Submit Knowledge" [level=1] [ref=e3334]
+          - paragraph [ref=e3335]: Submit a workflow walkthrough, bug solution, or task knowledge for peer and admin review.
+      - generic [ref=e3337]:
+        - generic [ref=e3338]:
+          - generic [ref=e3339]: Title *
+          - textbox "e.g., Resolving Database Deadlocks in Postgres" [active] [ref=e3340]: "[E2E] Employee Production Deployment Guide"
+        - generic [ref=e3341]:
+          - generic [ref=e3342]:
+            - generic [ref=e3343]:
+              - text: Department
+              - generic [ref=e3348]: "*"
+            - combobox [ref=e3349]:
+              - option "Development Team"
+              - option "DevOps Team" [selected]
+              - option "HR Team"
+              - option "IT Team"
+              - option "Org"
+              - option "SQA Team"
+              - option "Testing Team"
+          - generic [ref=e3350]:
+            - generic [ref=e3351]:
+              - text: Category
+              - generic [ref=e3354]: "*"
+            - combobox [ref=e3355]:
+              - option "Bug Report"
+              - option "Documentation" [selected]
+              - option "Feature Request"
+              - option "Knowledge Transfer"
+              - option "Task"
+              - option "UpdatedCat_1788856962478"
+        - generic [ref=e3356]:
+          - generic [ref=e3357]: Description & Knowledge Content *
+          - textbox "Provide clear steps, root cause explanations, code examples, or helpful context..." [ref=e3358]
+        - generic [ref=e3359]:
+          - generic [ref=e3360]: Supporting Attachments (Optional)
+          - generic [ref=e3361] [cursor=pointer]:
+            - strong [ref=e3365]: Click or drag files here to attach
+            - generic [ref=e3366]: Supports DOCX, PDF, TXT, PNG, JPG, MP4, WebM, MOV up to 500MB
+        - generic [ref=e3367]:
+          - button "Cancel" [ref=e3368] [cursor=pointer]
+          - button "Submit for Review" [ref=e3369] [cursor=pointer]

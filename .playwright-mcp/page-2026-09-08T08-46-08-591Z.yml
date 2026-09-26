@@ -1,0 +1,253 @@
+- generic [ref=e58]:
+  - complementary [ref=e59]:
+    - generic [ref=e60]:
+      - generic [ref=e61]:
+        - img "Logo" [ref=e62]
+        - generic [ref=e63]: TaskIQ
+      - generic [ref=e64]:
+        - generic [ref=e65]: A
+        - strong [ref=e67]: Admin
+    - navigation [ref=e68]:
+      - button "Dashboard" [ref=e69] [cursor=pointer]
+      - button "Approvals 1" [ref=e75] [cursor=pointer]:
+        - text: Approvals
+        - generic [ref=e80]: "1"
+      - button "Browse" [ref=e81] [cursor=pointer]
+      - button "Add Knowledge Post" [ref=e85] [cursor=pointer]
+      - button "Knowledge Base" [ref=e87] [cursor=pointer]
+      - button "Recommended" [ref=e90] [cursor=pointer]
+      - button "Bookmarks" [ref=e93] [cursor=pointer]
+      - button "Knowledge Assistant" [ref=e97] [cursor=pointer]
+      - button "Manage Taxonomy" [ref=e100] [cursor=pointer]
+      - button "Users" [ref=e105] [cursor=pointer]
+      - button "Role Management" [ref=e118] [cursor=pointer]
+      - button "Role Assign" [ref=e122] [cursor=pointer]
+      - button "Site Settings" [ref=e127] [cursor=pointer]
+      - button "Notifications 3" [ref=e131] [cursor=pointer]:
+        - text: Notifications
+        - generic [ref=e135]: "3"
+    - button "Logout" [ref=e137] [cursor=pointer]
+  - main [ref=e141]:
+    - generic [ref=e142]:
+      - generic [ref=e144]:
+        - generic [ref=e145]: Knowledge Portal
+        - generic [ref=e146]:
+          - heading "Management Dashboard" [level=1] [ref=e147]
+          - paragraph [ref=e148]: Platform analytics, team engagement metrics, and organizational knowledge distribution.
+      - generic [ref=e149]:
+        - generic [ref=e150]:
+          - generic [ref=e154]: Total Tasks
+          - strong [ref=e155]: "9"
+        - generic [ref=e156]:
+          - generic [ref=e159]: Knowledge Posts
+          - strong [ref=e160]: "0"
+        - generic [ref=e161]:
+          - generic [ref=e167]: Total Users
+          - strong [ref=e168]: "8"
+        - generic [ref=e169]:
+          - generic [ref=e174]: Active Departments
+          - strong [ref=e175]: "7"
+      - generic [ref=e176]:
+        - generic [ref=e177]:
+          - generic [ref=e178]:
+            - heading "Task Guidelines Status" [level=2] [ref=e182]
+            - generic [ref=e183]:
+              - generic [ref=e184]:
+                - generic [ref=e185]:
+                  - generic [ref=e186]: Approved
+                  - generic [ref=e187]: "7"
+                - generic [ref=e190]: 78%
+              - generic [ref=e191]:
+                - generic [ref=e192]:
+                  - generic [ref=e193]: Pending Review
+                  - generic [ref=e194]: "1"
+                - generic [ref=e197]: 11%
+              - generic [ref=e198]:
+                - generic [ref=e199]:
+                  - generic [ref=e200]: Rejected
+                  - generic [ref=e201]: "1"
+                - generic [ref=e204]: 11%
+          - generic [ref=e205]:
+            - heading "Knowledge Posts Status" [level=2] [ref=e210]
+            - generic [ref=e211]:
+              - generic [ref=e212]:
+                - generic [ref=e213]:
+                  - generic [ref=e214]: Published
+                  - generic [ref=e215]: "0"
+                - generic [ref=e217]: 0%
+              - generic [ref=e218]:
+                - generic [ref=e219]:
+                  - generic [ref=e220]: Pending / Draft
+                  - generic [ref=e221]: "0"
+                - generic [ref=e223]: 0%
+        - generic [ref=e224]:
+          - generic [ref=e225]:
+            - heading "Top Contributors" [level=2] [ref=e230]
+            - generic [ref=e231]:
+              - generic [ref=e232]:
+                - generic [ref=e233]:
+                  - generic [ref=e234]:
+                    - generic [ref=e235]: GG
+                    - generic [ref=e236]:
+                      - generic [ref=e237]: Gaurav Gaikwad
+                      - generic [ref=e238]: gaurav.gaikwad@abmindia.com
+                  - generic [ref=e239]:
+                    - generic [ref=e240]: "4"
+                    - generic [ref=e241]: contributions
+                - generic [ref=e244]:
+                  - generic [ref=e245]:
+                    - strong [ref=e246]: "3"
+                    - text: tasks
+                  - generic [ref=e247]:
+                    - strong [ref=e248]: "0"
+                    - text: knowledge
+              - generic [ref=e249]:
+                - generic [ref=e250]:
+                  - generic [ref=e251]:
+                    - generic [ref=e252]: K
+                    - generic [ref=e253]:
+                      - generic [ref=e254]: Karthik
+                      - generic [ref=e255]: karthik@abm.com
+                  - generic [ref=e256]:
+                    - generic [ref=e257]: "4"
+                    - generic [ref=e258]: contributions
+                - generic [ref=e261]:
+                  - generic [ref=e262]:
+                    - strong [ref=e263]: "4"
+                    - text: tasks
+                  - generic [ref=e264]:
+                    - strong [ref=e265]: "0"
+                    - text: knowledge
+              - generic [ref=e266]:
+                - generic [ref=e267]:
+                  - generic [ref=e268]:
+                    - generic [ref=e269]: SG
+                    - generic [ref=e270]:
+                      - generic [ref=e271]: Shailesh Gupta
+                      - generic [ref=e272]: shailesh.gupta@abmindia.com
+                  - generic [ref=e273]:
+                    - generic [ref=e274]: "2"
+                    - generic [ref=e275]: contributions
+                - generic [ref=e278]:
+                  - generic [ref=e279]:
+                    - strong [ref=e280]: "2"
+                    - text: tasks
+                  - generic [ref=e281]:
+                    - strong [ref=e282]: "0"
+                    - text: knowledge
+          - generic [ref=e283]:
+            - heading "Department Distribution" [level=2] [ref=e289]
+            - generic [ref=e290]:
+              - generic [ref=e291]:
+                - generic [ref=e292]:
+                  - generic [ref=e293]: Development Team
+                  - generic [ref=e294]:
+                    - generic [ref=e295]: "3"
+                    - generic [ref=e296]: items
+                - generic [ref=e299]:
+                  - generic [ref=e300]:
+                    - strong [ref=e301]: "3"
+                    - text: tasks
+                  - generic [ref=e302]:
+                    - strong [ref=e303]: "0"
+                    - text: knowledge
+              - generic [ref=e304]:
+                - generic [ref=e305]:
+                  - generic [ref=e306]: Testing Team
+                  - generic [ref=e307]:
+                    - generic [ref=e308]: "3"
+                    - generic [ref=e309]: items
+                - generic [ref=e312]:
+                  - generic [ref=e313]:
+                    - strong [ref=e314]: "3"
+                    - text: tasks
+                  - generic [ref=e315]:
+                    - strong [ref=e316]: "0"
+                    - text: knowledge
+              - generic [ref=e317]:
+                - generic [ref=e318]:
+                  - generic [ref=e319]: IT Team
+                  - generic [ref=e320]:
+                    - generic [ref=e321]: "2"
+                    - generic [ref=e322]: items
+                - generic [ref=e325]:
+                  - generic [ref=e326]:
+                    - strong [ref=e327]: "1"
+                    - text: tasks
+                  - generic [ref=e328]:
+                    - strong [ref=e329]: "0"
+                    - text: knowledge
+              - generic [ref=e330]:
+                - generic [ref=e331]:
+                  - generic [ref=e332]: DevOps Team
+                  - generic [ref=e333]:
+                    - generic [ref=e334]: "0"
+                    - generic [ref=e335]: items
+                - generic [ref=e338]:
+                  - generic [ref=e339]:
+                    - strong [ref=e340]: "0"
+                    - text: tasks
+                  - generic [ref=e341]:
+                    - strong [ref=e342]: "0"
+                    - text: knowledge
+              - generic [ref=e343]:
+                - generic [ref=e344]:
+                  - generic [ref=e345]: HR Team
+                  - generic [ref=e346]:
+                    - generic [ref=e347]: "0"
+                    - generic [ref=e348]: items
+                - generic [ref=e351]:
+                  - generic [ref=e352]:
+                    - strong [ref=e353]: "0"
+                    - text: tasks
+                  - generic [ref=e354]:
+                    - strong [ref=e355]: "0"
+                    - text: knowledge
+              - generic [ref=e356]:
+                - generic [ref=e357]:
+                  - generic [ref=e358]: Org
+                  - generic [ref=e359]:
+                    - generic [ref=e360]: "0"
+                    - generic [ref=e361]: items
+                - generic [ref=e364]:
+                  - generic [ref=e365]:
+                    - strong [ref=e366]: "0"
+                    - text: tasks
+                  - generic [ref=e367]:
+                    - strong [ref=e368]: "0"
+                    - text: knowledge
+              - generic [ref=e369]:
+                - generic [ref=e370]:
+                  - generic [ref=e371]: SQA Team
+                  - generic [ref=e372]:
+                    - generic [ref=e373]: "0"
+                    - generic [ref=e374]: items
+                - generic [ref=e377]:
+                  - generic [ref=e378]:
+                    - strong [ref=e379]: "0"
+                    - text: tasks
+                  - generic [ref=e380]:
+                    - strong [ref=e381]: "0"
+                    - text: knowledge
+        - generic [ref=e382]:
+          - generic [ref=e383]:
+            - heading "Most Viewed Knowledge Posts" [level=2] [ref=e388]
+            - generic [ref=e389]: No knowledge posts yet
+          - generic [ref=e390]:
+            - heading "Views Comparison" [level=2] [ref=e394]
+            - generic [ref=e395]:
+              - generic [ref=e396]:
+                - generic "Redmine Tool KT" [ref=e397]: Task 1
+                - generic [ref=e400]: "0"
+              - generic [ref=e401]:
+                - generic "SUDM DULB Master KT" [ref=e402]: Task 2
+                - generic [ref=e405]: "0"
+              - generic [ref=e406]:
+                - generic "Playwright Automation using AI" [ref=e407]: Task 3
+                - generic [ref=e410]: "0"
+              - generic [ref=e411]:
+                - generic "Redmine Training for Onsite Team" [ref=e412]: Task 4
+                - generic [ref=e415]: "0"
+              - generic [ref=e416]:
+                - generic "Auto-Heal Automation using Playwright MCP" [ref=e417]: Task 5
+                - generic [ref=e420]: "0"

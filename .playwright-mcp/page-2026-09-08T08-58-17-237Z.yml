@@ -1,0 +1,190 @@
+- generic [ref=e2743]:
+  - complementary [ref=e2744]:
+    - generic [ref=e2745]:
+      - generic [ref=e2746]:
+        - img "Logo" [ref=e2747]
+        - generic [ref=e2748]: ABM TaskIQ Portal
+      - generic [ref=e2749]:
+        - generic [ref=e2750]: GG
+        - generic [ref=e2751]:
+          - strong [ref=e2752]: Gaurav Gaikwad
+          - generic [ref=e2753]: Development Team
+    - navigation [ref=e2754]:
+      - button "Home" [ref=e2755] [cursor=pointer]
+      - button "My Knowledge" [ref=e2759] [cursor=pointer]
+      - button "Browse" [ref=e2763] [cursor=pointer]
+      - button "Submit Knowledge" [ref=e2767] [cursor=pointer]
+      - button "Knowledge Base" [ref=e2769] [cursor=pointer]
+      - button "Recommended" [ref=e2772] [cursor=pointer]
+      - button "Bookmarks" [ref=e2775] [cursor=pointer]
+      - button "Knowledge Assistant" [ref=e2779] [cursor=pointer]
+      - button "Notifications 1" [ref=e2782] [cursor=pointer]:
+        - text: Notifications
+        - generic [ref=e2786]: "1"
+    - button "Logout" [ref=e2788] [cursor=pointer]
+  - main [ref=e2792]:
+    - generic [ref=e2793]:
+      - generic [ref=e2795]:
+        - generic [ref=e2796]: KnowledgeIQ Learning Portal
+        - heading "Welcome back, Gaurav Gaikwad 👋" [level=1] [ref=e2799]
+        - paragraph [ref=e2800]: Discover approved walkthroughs, share operational know-how, and keep team learning moving without scattered documents.
+        - generic [ref=e2801]:
+          - generic [ref=e2806]:
+            - strong [ref=e2807]: "9"
+            - text: Total Resources
+          - generic [ref=e2812]:
+            - strong [ref=e2813]: "2"
+            - text: My Bookmarks
+      - generic [ref=e2815]:
+        - textbox "Search across all guides, videos, and documentation..." [ref=e2817]
+        - combobox [ref=e2823]:
+          - option "All Departments" [selected]
+          - option "Development Team"
+          - option "DevOps Team"
+          - option "HR Team"
+          - option "IT Team"
+          - option "Org"
+          - option "SQA Team"
+          - option "Testing Team"
+        - combobox [ref=e2829]:
+          - option "All Content Types" [selected]
+          - option "Videos"
+          - option "Knowledge Posts"
+          - option "Task Guides"
+      - generic [ref=e2830]:
+        - generic [ref=e2832]:
+          - heading "Recently Added" [level=2] [ref=e2836]
+          - generic [ref=e2837]: "9"
+        - generic [ref=e2838]:
+          - article [ref=e2839]:
+            - generic [ref=e2840]:
+              - generic [ref=e2841]:
+                - generic [ref=e2842]:
+                  - generic [ref=e2843]: GG
+                  - generic [ref=e2844]:
+                    - generic [ref=e2845]: Gaurav Gaikwad
+                    - generic [ref=e2846]: IT Team · 3h ago
+                - button "Add bookmark" [ref=e2847] [cursor=pointer]
+              - heading "[TEST] Video Submission 1788857085685" [level=3] [ref=e2850] [cursor=pointer]
+              - paragraph [ref=e2851]: Test video description
+            - generic [ref=e2852]:
+              - generic [ref=e2853]: Video
+              - button "Watch" [ref=e2859] [cursor=pointer]
+          - article [ref=e2862]:
+            - generic [ref=e2863]:
+              - generic [ref=e2864]:
+                - generic [ref=e2865]:
+                  - generic [ref=e2866]: K
+                  - generic [ref=e2867]:
+                    - generic [ref=e2868]: Karthik
+                    - generic [ref=e2869]: IT Team · 4h ago
+                - button "Add bookmark" [ref=e2870] [cursor=pointer]
+              - heading "Task for comment" [level=3] [ref=e2873] [cursor=pointer]
+            - generic [ref=e2874]:
+              - generic [ref=e2875]: Task Guide
+              - button "View" [ref=e2881] [cursor=pointer]
+          - article [ref=e2884]:
+            - generic [ref=e2885]:
+              - generic [ref=e2886]:
+                - generic [ref=e2887]:
+                  - generic [ref=e2888]: GG
+                  - generic [ref=e2889]:
+                    - generic [ref=e2890]: Gaurav Gaikwad
+                    - generic [ref=e2891]: Development Team · 5d ago
+                - button "Add bookmark" [ref=e2892] [cursor=pointer]
+              - heading "Redmine Tool KT" [level=3] [ref=e2895] [cursor=pointer]
+              - paragraph [ref=e2896]: Redmine
+            - generic [ref=e2897]:
+              - generic [ref=e2898]:
+                - generic [ref=e2899]: Task Guide
+                - generic [ref=e2904]: Knowledge Transfer
+              - button "View" [ref=e2905] [cursor=pointer]
+          - article [ref=e2908]:
+            - generic [ref=e2909]:
+              - generic [ref=e2910]:
+                - generic [ref=e2911]:
+                  - generic [ref=e2912]: GG
+                  - generic [ref=e2913]:
+                    - generic [ref=e2914]: Gaurav Gaikwad
+                    - generic [ref=e2915]: Testing Team · 5d ago
+                - button "Add bookmark" [ref=e2916] [cursor=pointer]
+              - heading "SUDM DULB Master KT" [level=3] [ref=e2919] [cursor=pointer]
+              - paragraph [ref=e2920]: SUDM DULB Master Positive Flow
+            - generic [ref=e2921]:
+              - generic [ref=e2922]:
+                - generic [ref=e2923]: Task Guide
+                - generic [ref=e2928]: Knowledge Transfer
+              - button "View" [ref=e2929] [cursor=pointer]
+          - article [ref=e2932]:
+            - generic [ref=e2933]:
+              - generic [ref=e2934]:
+                - generic [ref=e2935]:
+                  - generic [ref=e2936]: SG
+                  - generic [ref=e2937]:
+                    - generic [ref=e2938]: Shailesh Gupta
+                    - generic [ref=e2939]: Testing Team · 6d ago
+                - button "Add bookmark" [ref=e2940] [cursor=pointer]
+              - heading "Playwright Automation using AI" [level=3] [ref=e2943] [cursor=pointer]
+              - paragraph [ref=e2944]:
+                - generic [ref=e2945]:
+                  - text: "Find the following link to understand how we can perform test automation without writing any code, completely using AI. Link:"
+                  - link "https://youtu.be/XcuvwueNGzo" [ref=e2946] [cursor=pointer]:
+                    - /url: https://youtu.be/XcuvwueNGzo
+            - generic [ref=e2952]:
+              - generic [ref=e2953]:
+                - generic [ref=e2954]: Task Guide
+                - generic [ref=e2959]: Knowledge Transfer
+              - button "View" [ref=e2960] [cursor=pointer]
+          - article [ref=e2963]:
+            - generic [ref=e2964]:
+              - generic [ref=e2965]:
+                - generic [ref=e2966]:
+                  - generic [ref=e2967]: GG
+                  - generic [ref=e2968]:
+                    - generic [ref=e2969]: Gaurav Gaikwad
+                    - generic [ref=e2970]: Development Team · 6d ago
+                - button "Remove bookmark" [ref=e2971] [cursor=pointer]
+              - heading "Redmine Training for Onsite Team" [level=3] [ref=e2975] [cursor=pointer]
+              - paragraph [ref=e2976]: Proper documentation to help the onsite team effectively use Redmine for project management, issue tracking, task assignment, progress monitoring, and team collaboration.
+            - generic [ref=e2977]:
+              - generic [ref=e2978]:
+                - generic [ref=e2979]: Task Guide
+                - generic [ref=e2984]: Documentation
+              - button "View" [ref=e2985] [cursor=pointer]
+      - generic [ref=e2988]:
+        - generic [ref=e2990]:
+          - heading "Most Popular & Bookmarked" [level=2] [ref=e2994]
+          - generic [ref=e2995]: "2"
+        - generic [ref=e2996]:
+          - article [ref=e2997]:
+            - generic [ref=e2998]:
+              - generic [ref=e2999]:
+                - generic [ref=e3000]:
+                  - generic [ref=e3001]: GG
+                  - generic [ref=e3002]:
+                    - generic [ref=e3003]: Gaurav Gaikwad
+                    - generic [ref=e3004]: Development Team · 6d ago
+                - button "Remove bookmark" [ref=e3005] [cursor=pointer]
+              - heading "Redmine Training for Onsite Team" [level=3] [ref=e3009] [cursor=pointer]
+              - paragraph [ref=e3010]: Proper documentation to help the onsite team effectively use Redmine for project management, issue tracking, task assignment, progress monitoring, and team collaboration.
+            - generic [ref=e3011]:
+              - generic [ref=e3012]:
+                - generic [ref=e3013]: Task Guide
+                - generic [ref=e3018]: Documentation
+              - button "View" [ref=e3019] [cursor=pointer]
+          - article [ref=e3022]:
+            - generic [ref=e3023]:
+              - generic [ref=e3024]:
+                - generic [ref=e3025]:
+                  - generic [ref=e3026]: SG
+                  - generic [ref=e3027]:
+                    - generic [ref=e3028]: Shailesh Gupta
+                    - generic [ref=e3029]: Testing Team · 6d ago
+                - button "Remove bookmark" [ref=e3030] [cursor=pointer]
+              - heading "Auto-Heal Automation using Playwright MCP" [level=3] [ref=e3034] [cursor=pointer]
+              - paragraph [ref=e3035]: An AI-powered automation framework that automatically detects broken Playwright test scripts, identifies changed UI elements or locators, and intelligently updates them using Playwright MCP—reducing test maintenance and improving automation reliability.
+            - generic [ref=e3036]:
+              - generic [ref=e3037]:
+                - generic [ref=e3038]: Task Guide
+                - generic [ref=e3043]: Documentation
+              - button "View" [ref=e3044] [cursor=pointer]

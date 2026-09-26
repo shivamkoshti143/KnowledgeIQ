@@ -1,0 +1,128 @@
+- generic [ref=e2743]:
+  - complementary [ref=e2744]:
+    - generic [ref=e2745]:
+      - generic [ref=e2746]:
+        - img "Logo" [ref=e2747]
+        - generic [ref=e2748]: ABM TaskIQ Portal
+      - generic [ref=e2749]:
+        - generic [ref=e2750]: GG
+        - generic [ref=e2751]:
+          - strong [ref=e2752]: Gaurav Gaikwad
+          - generic [ref=e2753]: Development Team
+    - navigation [ref=e2754]:
+      - button "Home" [ref=e2755] [cursor=pointer]
+      - button "My Knowledge" [ref=e2759] [cursor=pointer]
+      - button "Browse" [ref=e2763] [cursor=pointer]
+      - button "Submit Knowledge" [ref=e2767] [cursor=pointer]
+      - button "Knowledge Base" [ref=e2769] [cursor=pointer]
+      - button "Recommended" [ref=e2772] [cursor=pointer]
+      - button "Bookmarks" [ref=e2775] [cursor=pointer]
+      - button "Knowledge Assistant" [ref=e2779] [cursor=pointer]
+      - button "Notifications 1" [ref=e2782] [cursor=pointer]:
+        - text: Notifications
+        - generic [ref=e2786]: "1"
+    - button "Logout" [ref=e2788] [cursor=pointer]
+  - main [ref=e2792]:
+    - generic [ref=e3373]: Knowledge is sent for review.
+    - generic [ref=e3374]:
+      - generic [ref=e3376]:
+        - generic [ref=e3377]: My Workspace
+        - generic [ref=e3378]:
+          - heading "My Knowledge" [level=1] [ref=e3379]
+          - paragraph [ref=e3380]: Track your submitted knowledge posts, review progress, and supporting attachments.
+      - generic [ref=e3381]:
+        - generic [ref=e3382]:
+          - textbox "Search your submitted posts by title, description, or department..." [ref=e3384]
+          - combobox [ref=e3390]:
+            - option "All Departments" [selected]
+            - option "Development Team"
+            - option "DevOps Team"
+            - option "HR Team"
+            - option "IT Team"
+            - option "Org"
+            - option "SQA Team"
+            - option "Testing Team"
+          - combobox [ref=e3395]:
+            - option "Newest First" [selected]
+            - option "Oldest First"
+            - option "Title (A-Z)"
+        - generic [ref=e3396]:
+          - button "All Posts 4" [ref=e3397] [cursor=pointer]:
+            - generic [ref=e3398]: All Posts
+            - generic [ref=e3399]: "4"
+          - button "Approved 3" [ref=e3400] [cursor=pointer]:
+            - generic [ref=e3401]: Approved
+            - generic [ref=e3402]: "3"
+          - button "Pending Review 1" [ref=e3403] [cursor=pointer]:
+            - generic [ref=e3404]: Pending Review
+            - generic [ref=e3405]: "1"
+          - button "Rejected / Needs Revision 0" [ref=e3406] [cursor=pointer]:
+            - generic [ref=e3407]: Rejected / Needs Revision
+            - generic [ref=e3408]: "0"
+      - generic [ref=e3409]: Showing 4 submissions
+      - generic [ref=e3411]:
+        - article [ref=e3412]:
+          - generic [ref=e3413]:
+            - generic [ref=e3414]:
+              - generic [ref=e3415]: GG
+              - generic [ref=e3417]:
+                - strong [ref=e3418]: Gaurav Gaikwad
+                - generic [ref=e3419]: DevOps Team
+                - generic [ref=e3420]: · 3h ago
+            - generic [ref=e3421]:
+              - generic [ref=e3422]: pending
+              - button "Add bookmark" [ref=e3423] [cursor=pointer]
+              - button "Delete pending submission" [ref=e3426] [cursor=pointer]
+          - heading "[E2E] Employee Production Deployment Guide" [level=3] [ref=e3430] [cursor=pointer]
+          - paragraph [ref=e3431]: "Step 1: Build the docker image and tag with git commit hash. Step 2: Run pre-flight health checks. Step 3: Deploy to staging and verify smoke tests. Step 4: Perform rolling zero-downtime update."
+          - generic [ref=e3432]:
+            - generic [ref=e3433]: Documentation
+            - button "View Details" [ref=e3435] [cursor=pointer]
+        - article [ref=e3438]:
+          - generic [ref=e3439]:
+            - generic [ref=e3440]:
+              - generic [ref=e3441]: GG
+              - generic [ref=e3443]:
+                - strong [ref=e3444]: Gaurav Gaikwad
+                - generic [ref=e3445]: Development Team
+                - generic [ref=e3446]: · 5d ago
+            - generic [ref=e3447]:
+              - generic [ref=e3448]: approved
+              - button "Add bookmark" [ref=e3449] [cursor=pointer]
+          - heading "Redmine Tool KT" [level=3] [ref=e3452] [cursor=pointer]
+          - paragraph [ref=e3453]: Redmine
+          - generic [ref=e3454]:
+            - generic [ref=e3455]: Knowledge Transfer
+            - button "View Details" [ref=e3457] [cursor=pointer]
+        - article [ref=e3460]:
+          - generic [ref=e3461]:
+            - generic [ref=e3462]:
+              - generic [ref=e3463]: GG
+              - generic [ref=e3465]:
+                - strong [ref=e3466]: Gaurav Gaikwad
+                - generic [ref=e3467]: Testing Team
+                - generic [ref=e3468]: · 5d ago
+            - generic [ref=e3469]:
+              - generic [ref=e3470]: approved
+              - button "Add bookmark" [ref=e3471] [cursor=pointer]
+          - heading "SUDM DULB Master KT" [level=3] [ref=e3474] [cursor=pointer]
+          - paragraph [ref=e3475]: SUDM DULB Master Positive Flow
+          - generic [ref=e3476]:
+            - generic [ref=e3477]: Knowledge Transfer
+            - button "View Details" [ref=e3479] [cursor=pointer]
+        - article [ref=e3482]:
+          - generic [ref=e3483]:
+            - generic [ref=e3484]:
+              - generic [ref=e3485]: GG
+              - generic [ref=e3487]:
+                - strong [ref=e3488]: Gaurav Gaikwad
+                - generic [ref=e3489]: Development Team
+                - generic [ref=e3490]: · 6d ago
+            - generic [ref=e3491]:
+              - generic [ref=e3492]: approved
+              - button "Remove bookmark" [ref=e3493] [cursor=pointer]
+          - heading "Redmine Training for Onsite Team" [level=3] [ref=e3497] [cursor=pointer]
+          - paragraph [ref=e3498]: Proper documentation to help the onsite team effectively use Redmine for project management, issue tracking, task assignment, progress monitoring, and team collaboration.
+          - generic [ref=e3499]:
+            - generic [ref=e3500]: Documentation
+            - button "View Details" [ref=e3502] [cursor=pointer]

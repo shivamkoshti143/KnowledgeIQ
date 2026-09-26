@@ -1,0 +1,128 @@
+- generic [ref=e1259]:
+  - complementary [ref=e1260]:
+    - generic [ref=e1261]:
+      - generic [ref=e1262]:
+        - img "Logo" [ref=e1263]
+        - generic [ref=e1264]: ABM TaskIQ Portal
+      - generic [ref=e1265]:
+        - generic [ref=e1266]: A
+        - strong [ref=e1268]: Admin
+    - navigation [ref=e1269]:
+      - button "Dashboard" [ref=e1270] [cursor=pointer]
+      - button "Approvals" [ref=e1276] [cursor=pointer]
+      - button "Browse" [ref=e1281] [cursor=pointer]
+      - button "Add Knowledge Post" [ref=e1285] [cursor=pointer]
+      - button "Knowledge Base" [ref=e1287] [cursor=pointer]
+      - button "Recommended" [ref=e1290] [cursor=pointer]
+      - button "Bookmarks" [ref=e1293] [cursor=pointer]
+      - button "Knowledge Assistant" [ref=e1297] [cursor=pointer]
+      - button "Manage Taxonomy" [active] [ref=e1300] [cursor=pointer]
+      - button "Users" [ref=e1305] [cursor=pointer]
+      - button "Role Management" [ref=e1318] [cursor=pointer]
+      - button "Role Assign" [ref=e1322] [cursor=pointer]
+      - button "Site Settings" [ref=e1327] [cursor=pointer]
+      - button "Notifications 3" [ref=e1331] [cursor=pointer]:
+        - text: Notifications
+        - generic [ref=e1335]: "3"
+    - button "Logout" [ref=e1337] [cursor=pointer]
+  - main [ref=e1341]:
+    - generic [ref=e2043]:
+      - generic [ref=e2045]:
+        - generic [ref=e2046]: System Configuration
+        - generic [ref=e2047]:
+          - heading "Departments & Categories" [level=1] [ref=e2048]
+          - paragraph [ref=e2049]: Manage available learning areas, organizational teams, and knowledge categories.
+      - generic [ref=e2050]:
+        - generic [ref=e2051]:
+          - generic [ref=e2052]:
+            - heading "Departments" [level=2] [ref=e2058]
+            - generic [ref=e2059]: "7"
+          - generic [ref=e2060]:
+            - textbox "New department name..." [ref=e2061]
+            - button "Add" [ref=e2062] [cursor=pointer]
+          - generic [ref=e2064]:
+            - generic [ref=e2065]:
+              - generic [ref=e2066]:
+                - strong [ref=e2067]: Development Team
+                - paragraph [ref=e2068]: Development
+              - generic [ref=e2069]:
+                - button "Edit department" [ref=e2070] [cursor=pointer]
+                - button "Delete department" [ref=e2074] [cursor=pointer]
+            - generic [ref=e2078]:
+              - generic [ref=e2079]:
+                - strong [ref=e2080]: DevOps Team
+                - paragraph [ref=e2081]: Deployment and DevOps guidance
+              - generic [ref=e2082]:
+                - button "Edit department" [ref=e2083] [cursor=pointer]
+                - button "Delete department" [ref=e2087] [cursor=pointer]
+            - generic [ref=e2091]:
+              - generic [ref=e2092]:
+                - strong [ref=e2093]: HR Team
+                - paragraph [ref=e2094]: People operations and employee services
+              - generic [ref=e2095]:
+                - button "Edit department" [ref=e2096] [cursor=pointer]
+                - button "Delete department" [ref=e2100] [cursor=pointer]
+            - generic [ref=e2104]:
+              - generic [ref=e2105]:
+                - strong [ref=e2106]: IT Team
+                - paragraph [ref=e2107]: Infrastructure, access, and helpdesk operations
+              - generic [ref=e2108]:
+                - button "Edit department" [ref=e2109] [cursor=pointer]
+                - button "Delete department" [ref=e2113] [cursor=pointer]
+            - generic [ref=e2117]:
+              - strong [ref=e2119]: Org
+              - generic [ref=e2120]:
+                - button "Edit department" [ref=e2121] [cursor=pointer]
+                - button "Delete department" [ref=e2125] [cursor=pointer]
+            - generic [ref=e2129]:
+              - generic [ref=e2130]:
+                - strong [ref=e2131]: SQA Team
+                - paragraph [ref=e2132]: Software quality assurance playbooks
+              - generic [ref=e2133]:
+                - button "Edit department" [ref=e2134] [cursor=pointer]
+                - button "Delete department" [ref=e2138] [cursor=pointer]
+            - generic [ref=e2142]:
+              - generic [ref=e2143]:
+                - strong [ref=e2144]: Testing Team
+                - paragraph [ref=e2145]: Manual and automation testing guidance
+              - generic [ref=e2146]:
+                - button "Edit department" [ref=e2147] [cursor=pointer]
+                - button "Delete department" [ref=e2151] [cursor=pointer]
+        - generic [ref=e2155]:
+          - generic [ref=e2156]:
+            - heading "Categories" [level=2] [ref=e2160]
+            - generic [ref=e2161]: "6"
+          - generic [ref=e2162]:
+            - textbox "New category name..." [ref=e2163]
+            - button "Add" [ref=e2164] [cursor=pointer]
+          - generic [ref=e2166]:
+            - generic [ref=e2167]:
+              - strong [ref=e2168]: Bug Report
+              - generic [ref=e2169]:
+                - button "Edit category" [ref=e2170] [cursor=pointer]
+                - button "Delete category" [ref=e2174] [cursor=pointer]
+            - generic [ref=e2178]:
+              - strong [ref=e2179]: Documentation
+              - generic [ref=e2180]:
+                - button "Edit category" [ref=e2181] [cursor=pointer]
+                - button "Delete category" [ref=e2185] [cursor=pointer]
+            - generic [ref=e2189]:
+              - strong [ref=e2190]: Feature Request
+              - generic [ref=e2191]:
+                - button "Edit category" [ref=e2192] [cursor=pointer]
+                - button "Delete category" [ref=e2196] [cursor=pointer]
+            - generic [ref=e2200]:
+              - strong [ref=e2201]: Knowledge Transfer
+              - generic [ref=e2202]:
+                - button "Edit category" [ref=e2203] [cursor=pointer]
+                - button "Delete category" [ref=e2207] [cursor=pointer]
+            - generic [ref=e2211]:
+              - strong [ref=e2212]: Task
+              - generic [ref=e2213]:
+                - button "Edit category" [ref=e2214] [cursor=pointer]
+                - button "Delete category" [ref=e2218] [cursor=pointer]
+            - generic [ref=e2222]:
+              - strong [ref=e2223]: UpdatedCat_1788856962478
+              - generic [ref=e2224]:
+                - button "Edit category" [ref=e2225] [cursor=pointer]
+                - button "Delete category" [ref=e2229] [cursor=pointer]

@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+
+# Build
+dist/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Microsoft Teams / Azure credentials (never commit)
+*.pem
+*.key
+*.cert
+*.pfx
+*.p12
+
+# Logs
+*.log
+
+# VS Code
+.vscode/
+
+# Vite cache
+.vite/
+
+# Runtime data
+server/data/db.json
+
+# Uploads
+server/uploads/*
+!server/uploads/.gitkeep
+
+# PHP server cache
+php-server/config/*.php.cache
+
+# Test outputs
+coverage/
+*.coverage.json

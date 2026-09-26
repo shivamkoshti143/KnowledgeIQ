@@ -1,0 +1,287 @@
+- generic [ref=e58]:
+  - complementary [ref=e59]:
+    - generic [ref=e60]:
+      - generic [ref=e61]:
+        - img "Logo" [ref=e62]
+        - generic [ref=e63]: TaskIQ
+      - generic [ref=e64]:
+        - generic [ref=e65]: A
+        - strong [ref=e67]: Admin
+    - navigation [ref=e68]:
+      - button "Dashboard" [ref=e69] [cursor=pointer]
+      - button "Approvals" [ref=e735] [cursor=pointer]
+      - button "Browse" [ref=e81] [cursor=pointer]
+      - button "Add Knowledge Post" [ref=e85] [cursor=pointer]
+      - button "Knowledge Base" [ref=e87] [cursor=pointer]
+      - button "Recommended" [ref=e90] [cursor=pointer]
+      - button "Bookmarks" [ref=e93] [cursor=pointer]
+      - button "Knowledge Assistant" [ref=e97] [cursor=pointer]
+      - button "Manage Taxonomy" [ref=e100] [cursor=pointer]
+      - button "Users" [ref=e105] [cursor=pointer]
+      - button "Role Management" [ref=e118] [cursor=pointer]
+      - button "Role Assign" [ref=e122] [cursor=pointer]
+      - button "Site Settings" [ref=e127] [cursor=pointer]
+      - button "Notifications 3" [ref=e131] [cursor=pointer]:
+        - text: Notifications
+        - generic [ref=e135]: "3"
+    - button "Logout" [ref=e137] [cursor=pointer]
+  - main [ref=e141]:
+    - generic [ref=e795]: Knowledge is sent for review.
+    - generic [ref=e796]:
+      - generic [ref=e797]:
+        - generic [ref=e798]:
+          - generic [ref=e799]: Team Knowledge Base
+          - generic [ref=e800]:
+            - heading "Knowledge Base" [level=1] [ref=e801]
+            - paragraph [ref=e802]: Manage, discover, and organize published walkthroughs, guides, and bug resolutions.
+        - button "Add Post" [ref=e804] [cursor=pointer]
+      - generic [ref=e806]:
+        - generic [ref=e807]:
+          - textbox "Search guides, bug reports, or authors..." [ref=e809]
+          - combobox [ref=e815]:
+            - option "All Departments" [selected]
+            - option "Development Team"
+            - option "DevOps Team"
+            - option "HR Team"
+            - option "IT Team"
+            - option "Org"
+            - option "SQA Team"
+            - option "Testing Team"
+          - combobox [ref=e819]:
+            - option "All Time" [selected]
+            - option "Past 24 Hours"
+            - option "Past 7 Days"
+            - option "Past 30 Days"
+          - combobox [ref=e824]:
+            - option "Newest First" [selected]
+            - option "Oldest First"
+            - option "Title (A-Z)"
+        - generic [ref=e825]:
+          - button "All Posts 10" [ref=e826] [cursor=pointer]:
+            - generic [ref=e827]: All Posts
+            - generic [ref=e828]: "10"
+          - button "Bug Report 4" [ref=e829] [cursor=pointer]:
+            - generic [ref=e830]: Bug Report
+            - generic [ref=e831]: "4"
+          - button "Documentation 2" [ref=e832] [cursor=pointer]:
+            - generic [ref=e833]: Documentation
+            - generic [ref=e834]: "2"
+          - button "Feature Request" [ref=e835] [cursor=pointer]
+          - button "Knowledge Transfer 3" [ref=e837] [cursor=pointer]:
+            - generic [ref=e838]: Knowledge Transfer
+            - generic [ref=e839]: "3"
+          - button "Task" [ref=e840] [cursor=pointer]
+          - button "UpdatedCat_1788856962478" [ref=e842] [cursor=pointer]
+      - generic [ref=e844]: Showing 10 guides
+      - generic [ref=e846]:
+        - article [ref=e847]:
+          - generic [ref=e848]:
+            - generic [ref=e849]:
+              - generic [ref=e850]: A
+              - generic [ref=e852]:
+                - strong [ref=e853]: Admin
+                - generic [ref=e854]: Development Team
+                - generic [ref=e855]: · 3h ago
+            - generic [ref=e856]:
+              - button "Add bookmark" [ref=e857] [cursor=pointer]
+              - button "Delete knowledge" [ref=e860] [cursor=pointer]
+          - heading "[E2E-TEST] CI/CD Best Practices Guide" [level=3] [ref=e864] [cursor=pointer]
+          - paragraph [ref=e866]: This is an end-to-end practical test guide for CI/CD deployments and pipelines. Follow automated steps for verification.
+          - generic [ref=e867]:
+            - generic [ref=e868]: Bug Report
+            - button "View Post" [ref=e870] [cursor=pointer]
+        - article [ref=e873]:
+          - generic [ref=e874]:
+            - generic [ref=e875]:
+              - generic [ref=e876]: K
+              - generic [ref=e878]:
+                - strong [ref=e879]: Karthik
+                - generic [ref=e880]: IT Team
+                - generic [ref=e881]: · 4h ago
+            - generic [ref=e882]:
+              - button "Add bookmark" [ref=e883] [cursor=pointer]
+              - button "Delete task" [ref=e886] [cursor=pointer]
+          - heading "Task for comment" [level=3] [ref=e890] [cursor=pointer]
+          - button "View Post" [ref=e892] [cursor=pointer]
+        - article [ref=e895]:
+          - generic [ref=e896]:
+            - generic [ref=e897]:
+              - generic [ref=e898]: GG
+              - generic [ref=e900]:
+                - strong [ref=e901]: Gaurav Gaikwad
+                - generic [ref=e902]: Development Team
+                - generic [ref=e903]: · 5d ago
+            - generic [ref=e904]:
+              - button "Add bookmark" [ref=e905] [cursor=pointer]
+              - button "Delete task" [ref=e908] [cursor=pointer]
+          - heading "Redmine Tool KT" [level=3] [ref=e912] [cursor=pointer]
+          - paragraph [ref=e914]: Redmine
+          - generic [ref=e915]:
+            - generic [ref=e916]:
+              - generic [ref=e917]: Redmine Training On Site Team.pptx
+              - generic [ref=e924]:
+                - generic [ref=e925]: 1 of 1 file
+                - link "Download file" [ref=e926] [cursor=pointer]:
+                  - /url: /uploads/1788351519441-764646626.pptx
+            - generic [ref=e931]:
+              - strong [ref=e936]: Redmine Training On Site Team.pptx
+              - generic [ref=e937]: pptx File
+              - link "Download Attachment" [ref=e938] [cursor=pointer]:
+                - /url: /uploads/1788351519441-764646626.pptx
+          - generic [ref=e943]:
+            - generic [ref=e944]: Knowledge Transfer
+            - button "View Post" [ref=e946] [cursor=pointer]
+        - article [ref=e949]:
+          - generic [ref=e950]:
+            - generic [ref=e951]:
+              - generic [ref=e952]: GG
+              - generic [ref=e954]:
+                - strong [ref=e955]: Gaurav Gaikwad
+                - generic [ref=e956]: Testing Team
+                - generic [ref=e957]: · 5d ago
+            - generic [ref=e958]:
+              - button "Add bookmark" [ref=e959] [cursor=pointer]
+              - button "Delete task" [ref=e962] [cursor=pointer]
+          - heading "SUDM DULB Master KT" [level=3] [ref=e966] [cursor=pointer]
+          - paragraph [ref=e968]: SUDM DULB Master Positive Flow
+          - generic [ref=e969]:
+            - generic [ref=e970]:
+              - generic [ref=e971]: 1-Getting started login process.mp4
+              - generic [ref=e978]:
+                - generic [ref=e979]: 1 of 5 files
+                - link "Download file" [ref=e980] [cursor=pointer]:
+                  - /url: /uploads/1788343842658-20383996.mp4
+            - generic [ref=e984]: Your browser does not support the video tag.
+            - generic [ref=e987]:
+              - button "Previous file" [ref=e988] [cursor=pointer]:
+                - generic [ref=e991]: Prev
+              - generic [ref=e992]:
+                - button "1. 1-Getting started login process.mp4" [ref=e993] [cursor=pointer]:
+                  - generic [ref=e994]: "1."
+                  - generic [ref=e995]: 1-Getting started login process.mp4
+                - button "2. 2-DULB Master.mp4" [ref=e996] [cursor=pointer]:
+                  - generic [ref=e997]: "2."
+                  - generic [ref=e998]: 2-DULB Master.mp4
+                - button "3. 3-DULB Master.mp4" [ref=e999] [cursor=pointer]:
+                  - generic [ref=e1000]: "3."
+                  - generic [ref=e1001]: 3-DULB Master.mp4
+                - button "4. 4-ULB Master.mp4" [ref=e1002] [cursor=pointer]:
+                  - generic [ref=e1003]: "4."
+                  - generic [ref=e1004]: 4-ULB Master.mp4
+                - button "5. 5-ULB Master.mp4" [ref=e1005] [cursor=pointer]:
+                  - generic [ref=e1006]: "5."
+                  - generic [ref=e1007]: 5-ULB Master.mp4
+              - button "Next file" [ref=e1008] [cursor=pointer]:
+                - generic [ref=e1009]: Next
+          - generic [ref=e1012]:
+            - generic [ref=e1013]: Knowledge Transfer
+            - button "View Post" [ref=e1015] [cursor=pointer]
+        - article [ref=e1018]:
+          - generic [ref=e1019]:
+            - generic [ref=e1020]:
+              - generic [ref=e1021]: SG
+              - generic [ref=e1023]:
+                - strong [ref=e1024]: Shailesh Gupta
+                - generic [ref=e1025]: Testing Team
+                - generic [ref=e1026]: · 6d ago
+            - generic [ref=e1027]:
+              - button "Add bookmark" [ref=e1028] [cursor=pointer]
+              - button "Delete task" [ref=e1031] [cursor=pointer]
+          - heading "Playwright Automation using AI" [level=3] [ref=e1035] [cursor=pointer]
+          - paragraph [ref=e1037]:
+            - generic [ref=e1038]:
+              - text: "Find the following link to understand how we can perform test automation without writing any code, completely using AI. Link:"
+              - link "https://youtu.be/XcuvwueNGzo" [ref=e1039] [cursor=pointer]:
+                - /url: https://youtu.be/XcuvwueNGzo
+          - generic [ref=e1045]:
+            - generic [ref=e1046]: Knowledge Transfer
+            - button "View Post" [ref=e1048] [cursor=pointer]
+        - article [ref=e1051]:
+          - generic [ref=e1052]:
+            - generic [ref=e1053]:
+              - generic [ref=e1054]: GG
+              - generic [ref=e1056]:
+                - strong [ref=e1057]: Gaurav Gaikwad
+                - generic [ref=e1058]: Development Team
+                - generic [ref=e1059]: · 6d ago
+            - generic [ref=e1060]:
+              - button "Add bookmark" [ref=e1061] [cursor=pointer]
+              - button "Delete task" [ref=e1064] [cursor=pointer]
+          - heading "Redmine Training for Onsite Team" [level=3] [ref=e1068] [cursor=pointer]
+          - paragraph [ref=e1070]: Proper documentation to help the onsite team effectively use Redmine for project management, issue tracking, task assignment, progress monitoring, and team collaboration.
+          - generic [ref=e1071]:
+            - generic [ref=e1072]:
+              - generic [ref=e1073]: 1788324678089-14110069.pptx
+              - generic [ref=e1080]:
+                - generic [ref=e1081]: 1 of 1 file
+                - link "Download file" [ref=e1082] [cursor=pointer]:
+                  - /url: /uploads/1788324678089-14110069.pptx
+            - generic [ref=e1087]:
+              - strong [ref=e1092]: 1788324678089-14110069.pptx
+              - generic [ref=e1093]: pptx File
+              - link "Download Attachment" [ref=e1094] [cursor=pointer]:
+                - /url: /uploads/1788324678089-14110069.pptx
+          - generic [ref=e1099]:
+            - generic [ref=e1100]: Documentation
+            - button "View Post" [ref=e1102] [cursor=pointer]
+        - article [ref=e1105]:
+          - generic [ref=e1106]:
+            - generic [ref=e1107]:
+              - generic [ref=e1108]: SG
+              - generic [ref=e1110]:
+                - strong [ref=e1111]: Shailesh Gupta
+                - generic [ref=e1112]: Testing Team
+                - generic [ref=e1113]: · 6d ago
+            - generic [ref=e1114]:
+              - button "Add bookmark" [ref=e1115] [cursor=pointer]
+              - button "Delete task" [ref=e1118] [cursor=pointer]
+          - heading "Auto-Heal Automation using Playwright MCP" [level=3] [ref=e1122] [cursor=pointer]
+          - generic [ref=e1123]:
+            - paragraph [ref=e1124]: An AI-powered automation framework that automatically detects broken Playwright test scripts, identifies changed UI elements or locators, and intelligently updates them using Playwright MCP—reducing test maintenance and improving automation reliability.
+            - button "Read More..." [ref=e1125] [cursor=pointer]
+          - generic [ref=e1126]:
+            - generic [ref=e1127]:
+              - generic [ref=e1128]: 1788325492976-698764753.png
+              - generic [ref=e1135]:
+                - generic [ref=e1136]: 1 of 3 files
+                - link "Download file" [ref=e1137] [cursor=pointer]:
+                  - /url: /uploads/1788325492976-698764753.png
+            - img "1788325492976-698764753.png" [ref=e1143]
+            - generic [ref=e1144]:
+              - button "Previous file" [ref=e1145] [cursor=pointer]:
+                - generic [ref=e1148]: Prev
+              - generic [ref=e1149]:
+                - button "1. 1788325492976-698764753.png" [ref=e1150] [cursor=pointer]:
+                  - generic [ref=e1151]: "1."
+                  - generic [ref=e1152]: 1788325492976-698764753.png
+                - button "2. 1788323748925-71810550.pdf" [ref=e1153] [cursor=pointer]:
+                  - generic [ref=e1154]: "2."
+                  - generic [ref=e1155]: 1788323748925-71810550.pdf
+                - button "3. 1788323748926-61897542.docx" [ref=e1156] [cursor=pointer]:
+                  - generic [ref=e1157]: "3."
+                  - generic [ref=e1158]: 1788323748926-61897542.docx
+              - button "Next file" [ref=e1159] [cursor=pointer]:
+                - generic [ref=e1160]: Next
+          - generic [ref=e1163]:
+            - generic [ref=e1164]: Documentation
+            - button "View Post" [ref=e1166] [cursor=pointer]
+        - article [ref=e1169]:
+          - generic [ref=e1170]:
+            - generic [ref=e1171]:
+              - generic [ref=e1172]: K
+              - generic [ref=e1174]:
+                - strong [ref=e1175]: Karthik
+                - generic [ref=e1176]: Development Team
+                - generic [ref=e1177]: · Sep 1, 2026
+            - generic [ref=e1178]:
+              - button "Add bookmark" [ref=e1179] [cursor=pointer]
+              - button "Delete task" [ref=e1182] [cursor=pointer]
+          - heading "Testing Submit Review Message Notification" [level=3] [ref=e1186] [cursor=pointer]
+          - paragraph [ref=e1188]: This is a test submission to verify that the message Knowledge is sent for review is displayed on employee submission.
+          - generic [ref=e1189]:
+            - generic [ref=e1190]: Bug Report
+            - button "View Post" [ref=e1192] [cursor=pointer]
+      - generic [ref=e1195]:
+        - button "‹ Previous" [disabled] [ref=e1196] [cursor=pointer]
+        - generic [ref=e1197]: Page 1 of 2
+        - button "Next ›" [ref=e1198] [cursor=pointer]

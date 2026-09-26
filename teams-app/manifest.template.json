@@ -1,0 +1,72 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/teams/v1.16/MicrosoftTeams.schema.json",
+  "manifestVersion": "1.16",
+  "version": "1.0.0",
+  "id": "{{MICROSOFT_BOT_ID}}",
+  "packageName": "com.abm.taskiq",
+  "developer": {
+    "name": "ABM Knowledgeware",
+    "websiteUrl": "https://abmknowledgeiq.com",
+    "privacyUrl": "https://abmknowledgeiq.com/privacy",
+    "termsOfUseUrl": "https://abmknowledgeiq.com/terms"
+  },
+  "icons": {
+    "color": "icon-color.png",
+    "outline": "icon-outline.png"
+  },
+  "name": {
+    "short": "TaskIQ",
+    "full": "ABM TaskIQ - Smart Task Guidance"
+  },
+  "description": {
+    "short": "Receive verification codes and notifications for TaskIQ portal",
+    "full": "The TaskIQ Bot delivers secure one-time passcodes (OTP) for login and registration to the ABM TaskIQ portal directly to your Microsoft Teams. It also sends notifications about task approvals, knowledge updates, and other important events."
+  },
+  "accentColor": "#2563EB",
+  "bots": [
+    {
+      "botId": "{{MICROSOFT_BOT_ID}}",
+      "scopes": [
+        "personal",
+        "team",
+        "groupChat"
+      ],
+      "supportsFiles": false,
+      "isNotificationOnly": false,
+      "commandLists": [
+        {
+          "scopes": [
+            "personal",
+            "team",
+            "groupChat"
+          ],
+          "commands": [
+            {
+              "title": "connect",
+              "description": "Link your Teams account to TaskIQ (usage: connect your@email.com)"
+            },
+            {
+              "title": "help",
+              "description": "Show available commands and help"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "composeExtensions": [],
+  "configurableTabs": [],
+  "staticTabs": [],
+  "permissions": [
+    "identity",
+    "messageTeamMembers"
+  ],
+  "validDomains": [
+    "{{FRONTEND_DOMAIN}}",
+    "{{API_DOMAIN}}"
+  ],
+  "webApplicationInfo": {
+    "id": "{{MICROSOFT_CLIENT_ID}}",
+    "resource": "api://{{MICROSOFT_CLIENT_ID}}"
+  }
+}

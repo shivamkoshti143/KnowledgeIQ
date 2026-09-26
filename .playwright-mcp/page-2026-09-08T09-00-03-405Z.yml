@@ -1,0 +1,222 @@
+- generic [ref=e2743]:
+  - complementary [ref=e2744]:
+    - generic [ref=e2745]:
+      - generic [ref=e2746]:
+        - img "Logo" [ref=e2747]
+        - generic [ref=e2748]: ABM TaskIQ Portal
+      - generic [ref=e2749]:
+        - generic [ref=e2750]: GG
+        - generic [ref=e2751]:
+          - strong [ref=e2752]: Gaurav Gaikwad
+          - generic [ref=e2753]: Development Team
+    - navigation [ref=e2754]:
+      - button "Home" [ref=e2755] [cursor=pointer]
+      - button "My Knowledge" [ref=e2759] [cursor=pointer]
+      - button "Browse" [ref=e2763] [cursor=pointer]
+      - button "Submit Knowledge" [ref=e2767] [cursor=pointer]
+      - button "Knowledge Base" [ref=e2769] [cursor=pointer]
+      - button "Recommended" [ref=e2772] [cursor=pointer]
+      - button "Bookmarks" [ref=e2775] [cursor=pointer]
+      - button "Knowledge Assistant" [ref=e2779] [cursor=pointer]
+      - button "Notifications" [active] [ref=e3506] [cursor=pointer]
+    - button "Logout" [ref=e2788] [cursor=pointer]
+  - main [ref=e2792]:
+    - generic [ref=e3507]:
+      - generic [ref=e3509]:
+        - generic [ref=e3510]: Activity Center
+        - generic [ref=e3511]:
+          - heading "Notifications" [level=1] [ref=e3512]
+          - paragraph [ref=e3513]: Stay updated on submission approvals, admin reviews, and replies across the knowledge portal.
+      - generic [ref=e3514]:
+        - button "All Notifications (27)" [ref=e3515] [cursor=pointer]
+        - button "Approvals & Reviews" [ref=e3516] [cursor=pointer]
+      - generic [ref=e3517]:
+        - article "Click to view details" [ref=e3518] [cursor=pointer]:
+          - generic [ref=e3522]:
+            - paragraph [ref=e3523]: Admin commented on "Redmine Training for Onsite Team".
+            - generic [ref=e3524]:
+              - generic [ref=e3528]: 5m ago
+              - generic [ref=e3529]: ·
+              - generic [ref=e3530]: 9/8/2026, 2:24:19 PM
+        - article "Click to view details" [ref=e3533] [cursor=pointer]:
+          - generic [ref=e3538]:
+            - paragraph [ref=e3539]: "Content is removed by admin: Your video \"[TEST] Video Submission 1788857118439\" was removed by an administrator. Reason: Test cleanup"
+            - generic [ref=e3540]:
+              - generic [ref=e3544]: 14m ago
+              - generic [ref=e3545]: ·
+              - generic [ref=e3546]: 9/8/2026, 2:15:19 PM
+        - article "Click to view details" [ref=e3549] [cursor=pointer]:
+          - generic [ref=e3554]:
+            - paragraph [ref=e3555]: "Your video \"[TEST] Video Submission 1788857118439\" has been approved. Remarks: Good video"
+            - generic [ref=e3556]:
+              - generic [ref=e3560]: 14m ago
+              - generic [ref=e3561]: ·
+              - generic [ref=e3562]: 9/8/2026, 2:15:18 PM
+        - article "Click to view details" [ref=e3565] [cursor=pointer]:
+          - generic [ref=e3570]:
+            - paragraph [ref=e3571]: "Content is removed: Your submission \"[TEST] Task by Employee 1788857117141\" was removed. Reason: Automated test cleanup"
+            - generic [ref=e3572]:
+              - generic [ref=e3576]: 14m ago
+              - generic [ref=e3577]: ·
+              - generic [ref=e3578]: 9/8/2026, 2:15:17 PM
+        - article "Click to view details" [ref=e3581] [cursor=pointer]:
+          - generic [ref=e3586]:
+            - paragraph [ref=e3587]: "Content is removed by admin: Your video \"[TEST] Video Submission 1788857085685\" was removed by an administrator. Reason: Test cleanup"
+            - generic [ref=e3588]:
+              - generic [ref=e3592]: 15m ago
+              - generic [ref=e3593]: ·
+              - generic [ref=e3594]: 9/8/2026, 2:14:46 PM
+        - article "Click to view details" [ref=e3597] [cursor=pointer]:
+          - generic [ref=e3602]:
+            - paragraph [ref=e3603]: "Content is removed: Your submission \"[TEST] Task by Employee 1788857084254\" was removed. Reason: Automated test cleanup"
+            - generic [ref=e3604]:
+              - generic [ref=e3608]: 15m ago
+              - generic [ref=e3609]: ·
+              - generic [ref=e3610]: 9/8/2026, 2:14:45 PM
+        - article "Click to view details" [ref=e3613] [cursor=pointer]:
+          - generic [ref=e3618]:
+            - paragraph [ref=e3619]: "Your video \"[TEST] Video Submission 1788857085685\" has been approved. Remarks: Good video"
+            - generic [ref=e3620]:
+              - generic [ref=e3624]: 15m ago
+              - generic [ref=e3625]: ·
+              - generic [ref=e3626]: 9/8/2026, 2:14:45 PM
+        - article "Click to view details" [ref=e3629] [cursor=pointer]:
+          - generic [ref=e3634]:
+            - paragraph [ref=e3635]: Your task "Redmine Tool KT" has been approved.
+            - generic [ref=e3636]:
+              - generic [ref=e3640]: 5d ago
+              - generic [ref=e3641]: ·
+              - generic [ref=e3642]: 9/2/2026, 5:54:01 PM
+        - article "Click to view details" [ref=e3645] [cursor=pointer]:
+          - generic [ref=e3650]:
+            - paragraph [ref=e3651]: "Content is removed: Your submission \"Redmine Tool KT\" was removed. Reason: Content removed by admin"
+            - generic [ref=e3652]:
+              - generic [ref=e3656]: 5d ago
+              - generic [ref=e3657]: ·
+              - generic [ref=e3658]: 9/2/2026, 5:53:44 PM
+        - article "Click to view details" [ref=e3661] [cursor=pointer]:
+          - generic [ref=e3666]:
+            - paragraph [ref=e3667]: "Content is removed: Your submission \"Redmine Tool KT\" was removed. Reason: Content removed by admin"
+            - generic [ref=e3668]:
+              - generic [ref=e3672]: 5d ago
+              - generic [ref=e3673]: ·
+              - generic [ref=e3674]: 9/2/2026, 5:53:41 PM
+        - article "Click to view details" [ref=e3677] [cursor=pointer]:
+          - generic [ref=e3682]:
+            - paragraph [ref=e3683]: "Content is removed: Your submission \"Redmine Tool KT\" was removed. Reason: Content removed by admin"
+            - generic [ref=e3684]:
+              - generic [ref=e3688]: 5d ago
+              - generic [ref=e3689]: ·
+              - generic [ref=e3690]: 9/2/2026, 5:53:39 PM
+        - article "Click to view details" [ref=e3693] [cursor=pointer]:
+          - generic [ref=e3698]:
+            - paragraph [ref=e3699]: "Content is removed: Your submission \"Redmine Tool KT\" was removed. Reason: Content removed by admin"
+            - generic [ref=e3700]:
+              - generic [ref=e3704]: 5d ago
+              - generic [ref=e3705]: ·
+              - generic [ref=e3706]: 9/2/2026, 5:53:37 PM
+        - article "Click to view details" [ref=e3709] [cursor=pointer]:
+          - generic [ref=e3714]:
+            - paragraph [ref=e3715]: "Content is removed: Your submission \"Redmine Tool KT\" was removed. Reason: Content removed by admin"
+            - generic [ref=e3716]:
+              - generic [ref=e3720]: 5d ago
+              - generic [ref=e3721]: ·
+              - generic [ref=e3722]: 9/2/2026, 5:53:34 PM
+        - article "Click to view details" [ref=e3725] [cursor=pointer]:
+          - generic [ref=e3730]:
+            - paragraph [ref=e3731]: "Content is removed: Your submission \"Redmine Tool KT\" was removed. Reason: Content removed by admin"
+            - generic [ref=e3732]:
+              - generic [ref=e3736]: 5d ago
+              - generic [ref=e3737]: ·
+              - generic [ref=e3738]: 9/2/2026, 5:53:32 PM
+        - article "Click to view details" [ref=e3741] [cursor=pointer]:
+          - generic [ref=e3746]:
+            - paragraph [ref=e3747]: "Content is removed: Your submission \"Redmine\" was removed. Reason: Content removed by admin"
+            - generic [ref=e3748]:
+              - generic [ref=e3752]: 5d ago
+              - generic [ref=e3753]: ·
+              - generic [ref=e3754]: 9/2/2026, 5:53:30 PM
+        - article "Click to view details" [ref=e3757] [cursor=pointer]:
+          - generic [ref=e3762]:
+            - paragraph [ref=e3763]: Your task "SUDM DULB Master KT" has been approved.
+            - generic [ref=e3764]:
+              - generic [ref=e3768]: 5d ago
+              - generic [ref=e3769]: ·
+              - generic [ref=e3770]: 9/2/2026, 3:41:09 PM
+        - article "Click to view details" [ref=e3773] [cursor=pointer]:
+          - generic [ref=e3778]:
+            - paragraph [ref=e3779]: "Content is removed: Your submission \"abc\" was removed. Reason: Content removed by admin"
+            - generic [ref=e3780]:
+              - generic [ref=e3784]: 5d ago
+              - generic [ref=e3785]: ·
+              - generic [ref=e3786]: 9/2/2026, 3:39:35 PM
+        - article "Click to view details" [ref=e3789] [cursor=pointer]:
+          - generic [ref=e3794]:
+            - paragraph [ref=e3795]: "Content is removed: Your submission \"SUDM DULB Master KT\" was removed. Reason: Content removed by admin"
+            - generic [ref=e3796]:
+              - generic [ref=e3800]: 5d ago
+              - generic [ref=e3801]: ·
+              - generic [ref=e3802]: 9/2/2026, 3:33:29 PM
+        - article "Click to view details" [ref=e3805] [cursor=pointer]:
+          - generic [ref=e3810]:
+            - paragraph [ref=e3811]: "Content is removed: Your submission \"SUDM DULB Master KT\" was removed. Reason: Content removed by admin"
+            - generic [ref=e3812]:
+              - generic [ref=e3816]: 5d ago
+              - generic [ref=e3817]: ·
+              - generic [ref=e3818]: 9/2/2026, 3:30:22 PM
+        - article "Click to view details" [ref=e3821] [cursor=pointer]:
+          - generic [ref=e3825]:
+            - paragraph [ref=e3826]: Shailesh Gupta added a discussion reply on "Redmine Training for Onsite Team".
+            - generic [ref=e3827]:
+              - generic [ref=e3831]: 6d ago
+              - generic [ref=e3832]: ·
+              - generic [ref=e3833]: 9/2/2026, 10:42:28 AM
+        - article "Click to view details" [ref=e3836] [cursor=pointer]:
+          - generic [ref=e3840]:
+            - paragraph [ref=e3841]: Shailesh Gupta added a discussion reply on "Redmine Training for Onsite Team".
+            - generic [ref=e3842]:
+              - generic [ref=e3846]: 6d ago
+              - generic [ref=e3847]: ·
+              - generic [ref=e3848]: 9/2/2026, 10:39:44 AM
+        - article "Click to view details" [ref=e3851] [cursor=pointer]:
+          - generic [ref=e3856]:
+            - paragraph [ref=e3857]: Your task "Redmine Training for Onsite Team" has been approved.
+            - generic [ref=e3858]:
+              - generic [ref=e3862]: 6d ago
+              - generic [ref=e3863]: ·
+              - generic [ref=e3864]: 9/2/2026, 10:26:53 AM
+        - article "Click to view details" [ref=e3867] [cursor=pointer]:
+          - generic [ref=e3871]:
+            - paragraph [ref=e3872]: Shailesh Gupta added a discussion reply on "Auto-Heal Automation using Playwright MCP ".
+            - generic [ref=e3873]:
+              - generic [ref=e3877]: 6d ago
+              - generic [ref=e3878]: ·
+              - generic [ref=e3879]: 9/2/2026, 10:16:19 AM
+        - article "Click to view details" [ref=e3882] [cursor=pointer]:
+          - generic [ref=e3887]:
+            - paragraph [ref=e3888]: "Content is removed by admin: Your submission \"lywgfydag\" was removed by an administrator. Reason: Content removed by admin"
+            - generic [ref=e3889]:
+              - generic [ref=e3893]: Sep 1, 2026
+              - generic [ref=e3894]: ·
+              - generic [ref=e3895]: 9/1/2026, 9:58:36 AM
+        - article "Click to view details" [ref=e3898] [cursor=pointer]:
+          - generic [ref=e3903]:
+            - paragraph [ref=e3904]: "Content is removed by admin: Your submission \"Auto-Heal Test Automation using Playwright and AI\" was removed by an administrator. Reason: Content removed by admin"
+            - generic [ref=e3905]:
+              - generic [ref=e3909]: Aug 27, 2026
+              - generic [ref=e3910]: ·
+              - generic [ref=e3911]: 8/27/2026, 3:55:51 PM
+        - article "Click to view details" [ref=e3914] [cursor=pointer]:
+          - generic [ref=e3919]:
+            - paragraph [ref=e3920]: "Content is removed by admin: Your submission \"abc\" was removed by an administrator. Reason: Content removed by admin"
+            - generic [ref=e3921]:
+              - generic [ref=e3925]: Aug 26, 2026
+              - generic [ref=e3926]: ·
+              - generic [ref=e3927]: 8/26/2026, 1:38:55 PM
+        - article "Click to view details" [ref=e3930] [cursor=pointer]:
+          - generic [ref=e3935]:
+            - paragraph [ref=e3936]: "Content is removed by admin: Your submission \"Playwright\" was removed by an administrator. Reason: Content removed by admin because not needed"
+            - generic [ref=e3937]:
+              - generic [ref=e3941]: Aug 26, 2026
+              - generic [ref=e3942]: ·
+              - generic [ref=e3943]: 8/26/2026, 11:26:43 AM

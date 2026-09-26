@@ -1,0 +1,74 @@
+- generic [ref=e2743]:
+  - complementary [ref=e2744]:
+    - generic [ref=e2745]:
+      - generic [ref=e2746]:
+        - img "Logo" [ref=e2747]
+        - generic [ref=e2748]: ABM TaskIQ Portal
+      - generic [ref=e2749]:
+        - generic [ref=e2750]: GG
+        - generic [ref=e2751]:
+          - strong [ref=e2752]: Gaurav Gaikwad
+          - generic [ref=e2753]: Development Team
+    - navigation [ref=e2754]:
+      - button "Home" [ref=e2755] [cursor=pointer]
+      - button "My Knowledge" [ref=e2759] [cursor=pointer]
+      - button "Browse" [ref=e2763] [cursor=pointer]
+      - button "Submit Knowledge" [ref=e2767] [cursor=pointer]
+      - button "Knowledge Base" [ref=e2769] [cursor=pointer]
+      - button "Recommended" [ref=e2772] [cursor=pointer]
+      - button "Bookmarks" [ref=e2775] [cursor=pointer]
+      - button "Knowledge Assistant" [ref=e2779] [cursor=pointer]
+      - button "Notifications" [ref=e3506] [cursor=pointer]
+    - button "Logout" [ref=e2788] [cursor=pointer]
+  - main [ref=e2792]:
+    - generic [ref=e3946]:
+      - generic [ref=e3948]:
+        - generic [ref=e3949]: AI Assistant
+        - generic [ref=e3950]:
+          - heading "Knowledge Assistant" [level=1] [ref=e3951]
+          - paragraph [ref=e3952]: Ask questions about tasks, operational solutions, workflows, and company-wide ABM knowledge.
+      - generic [ref=e3953]:
+        - generic [ref=e3954]:
+          - generic [ref=e3955]:
+            - generic [ref=e3956]:
+              - generic [ref=e3957]: auto heal
+              - generic [ref=e3958]: GG
+            - generic [ref=e3965]:
+              - text: "I found these items in our portal: 1."
+              - button "📄 Auto-Heal Test Automation using Playwright" [ref=e3966] [cursor=pointer]
+              - text: "- Auto-Heal Test Automation using Playwright 2."
+              - 'button "📄 The AI System Operator: Mastering Prompt Engineering & AI Workflows" [ref=e3967] [cursor=pointer]'
+              - text: "- A practical guide to mastering AI through structured prompting, context management, hallucination prevention, and profes Click any item above to open its details."
+          - generic [ref=e3968]:
+            - generic [ref=e3969]:
+              - generic [ref=e3970]: sudm
+              - generic [ref=e3971]: GG
+            - generic [ref=e3978]:
+              - text: "I found these items in our portal: 1."
+              - button "📄 SUDM DULB Master KT" [ref=e3979] [cursor=pointer]
+              - text: "- SUDM DULB Master Positive Flow Click any item above to open its details."
+          - generic [ref=e3987]:
+            - generic [ref=e3988]:
+              - generic [ref=e3989]: How to deploy docker?
+              - generic [ref=e3990]: GG
+            - generic [ref=e3997]:
+              - text: "I found these items in our portal: 1."
+              - button "📄 [E2E" [ref=e3998] [cursor=pointer]
+              - text: "Employee Production Deployment Guide] - Step 1: Build the docker image and tag with git commit hash. Step 2: Run pre-flight health checks. Step 3: Deploy to sta 2."
+              - button "📄 Playwright Automation using AI" [ref=e3999] [cursor=pointer]
+              - text: "- Find the following link to understand how we can perform test automation without writing any code, completely using AI. 3."
+              - button "📄 [E2E-TEST" [ref=e4000] [cursor=pointer]
+              - text: CI/CD Best Practices Guide] - This is an end-to-end practical test guide for CI/CD deployments and pipelines. Follow automated steps for verification. 4.
+              - button "📄 Redmine Tool KT" [ref=e4001] [cursor=pointer]
+              - text: "- Redmine 5."
+              - button "📄 Redmine Training for Onsite Team" [ref=e4002] [cursor=pointer]
+              - text: "- Proper documentation to help the onsite team effectively use Redmine for project management, issue tracking, task assign 6."
+              - button "📄 Auto-Heal Automation using Playwright MCP" [ref=e4003] [cursor=pointer]
+              - text: "- An AI-powered automation framework that automatically detects broken Playwright test scripts, identifies changed UI elem 7."
+              - button "📄 Testing Submit Review Message Notification" [ref=e4004] [cursor=pointer]
+              - text: "- This is a test submission to verify that the message Knowledge is sent for review is displayed on employee submission. 8."
+              - button "📄 [TEST" [ref=e4005] [cursor=pointer]
+              - text: Video Submission 1788857085685] - Test video description Click any item above to open its details.
+        - generic [ref=e3981]:
+          - textbox "Ask anything about ABM knowledge, procedures, or troubleshooting..." [ref=e3982]
+          - button "Send" [disabled] [ref=e3983] [cursor=pointer]

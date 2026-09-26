@@ -1,0 +1,92 @@
+- generic [ref=e2743]:
+  - complementary [ref=e2744]:
+    - generic [ref=e2745]:
+      - generic [ref=e2746]:
+        - img "Logo" [ref=e2747]
+        - generic [ref=e2748]: ABM TaskIQ Portal
+      - generic [ref=e2749]:
+        - generic [ref=e2750]: GG
+        - generic [ref=e2751]:
+          - strong [ref=e2752]: Gaurav Gaikwad
+          - generic [ref=e2753]: Development Team
+    - navigation [ref=e2754]:
+      - button "Home" [ref=e2755] [cursor=pointer]
+      - button "My Knowledge" [ref=e2759] [cursor=pointer]
+      - button "Browse" [ref=e2763] [cursor=pointer]
+      - button "Submit Knowledge" [ref=e2767] [cursor=pointer]
+      - button "Knowledge Base" [ref=e2769] [cursor=pointer]
+      - button "Recommended" [ref=e2772] [cursor=pointer]
+      - button "Bookmarks" [ref=e2775] [cursor=pointer]
+      - button "Knowledge Assistant" [ref=e2779] [cursor=pointer]
+      - button "Notifications" [ref=e3506] [cursor=pointer]
+    - button "Logout" [ref=e2788] [cursor=pointer]
+  - main [ref=e2792]:
+    - generic [ref=e4137]:
+      - generic [ref=e4139]:
+        - generic [ref=e4140]: Personal Collection
+        - generic [ref=e4141]:
+          - heading "Bookmarks" [level=1] [ref=e4142]
+          - paragraph [ref=e4143]: Quick access to all your saved walkthrough videos, task guides, and technical posts.
+      - generic [ref=e4144]:
+        - generic [ref=e4145]:
+          - textbox "Search bookmarked items by title, description, or department..." [ref=e4147]
+          - combobox [ref=e4153]:
+            - option "All Departments" [selected]
+            - option "Development Team"
+            - option "DevOps Team"
+            - option "HR Team"
+            - option "IT Team"
+            - option "Org"
+            - option "SQA Team"
+            - option "Testing Team"
+          - combobox [ref=e4158]:
+            - option "Newest First" [selected]
+            - option "Oldest First"
+            - option "Title (A-Z)"
+        - generic [ref=e4159]:
+          - button "All Bookmarks 2" [ref=e4160] [cursor=pointer]:
+            - generic [ref=e4161]: All Bookmarks
+            - generic [ref=e4162]: "2"
+          - button "Videos 0" [ref=e4163] [cursor=pointer]:
+            - generic [ref=e4167]: Videos
+            - generic [ref=e4168]: "0"
+          - button "Knowledge Posts 0" [ref=e4169] [cursor=pointer]:
+            - generic [ref=e4173]: Knowledge Posts
+            - generic [ref=e4174]: "0"
+          - button "Task Guides 2" [ref=e4175] [cursor=pointer]:
+            - generic [ref=e4180]: Task Guides
+            - generic [ref=e4181]: "2"
+      - generic [ref=e4182]: Showing 2 saved items
+      - generic [ref=e4184]:
+        - article [ref=e4185]:
+          - generic [ref=e4186]:
+            - generic [ref=e4187]:
+              - generic [ref=e4188]: GG
+              - generic [ref=e4190]:
+                - strong [ref=e4191]: Gaurav Gaikwad
+                - generic [ref=e4192]: Development Team
+                - generic [ref=e4193]: · 6d ago
+            - generic [ref=e4194]:
+              - generic [ref=e4195]: Task Guide
+              - button "Remove bookmark" [ref=e4200] [cursor=pointer]
+          - heading "Redmine Training for Onsite Team" [level=3] [ref=e4204] [cursor=pointer]
+          - paragraph [ref=e4205]: Proper documentation to help the onsite team effectively use Redmine for project management, issue tracking, task assignment, progress monitoring, and team collaboration.
+          - generic [ref=e4206]:
+            - generic [ref=e4207]: Documentation
+            - button "View Resource" [ref=e4209] [cursor=pointer]
+        - article [ref=e4212]:
+          - generic [ref=e4213]:
+            - generic [ref=e4214]:
+              - generic [ref=e4215]: SG
+              - generic [ref=e4217]:
+                - strong [ref=e4218]: Shailesh Gupta
+                - generic [ref=e4219]: Testing Team
+                - generic [ref=e4220]: · 6d ago
+            - generic [ref=e4221]:
+              - generic [ref=e4222]: Task Guide
+              - button "Remove bookmark" [ref=e4227] [cursor=pointer]
+          - heading "Auto-Heal Automation using Playwright MCP" [level=3] [ref=e4231] [cursor=pointer]
+          - paragraph [ref=e4232]: An AI-powered automation framework that automatically detects broken Playwright test scripts, identifies changed UI elements or locators, and intelligently updates them using Playwright MCP—reducing test maintenance and improving automation reliability.
+          - generic [ref=e4233]:
+            - generic [ref=e4234]: Documentation
+            - button "View Resource" [ref=e4236] [cursor=pointer]

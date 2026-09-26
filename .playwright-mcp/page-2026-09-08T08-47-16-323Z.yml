@@ -1,0 +1,76 @@
+- generic [ref=e58]:
+  - complementary [ref=e59]:
+    - generic [ref=e60]:
+      - generic [ref=e61]:
+        - img "Logo" [ref=e62]
+        - generic [ref=e63]: TaskIQ
+      - generic [ref=e64]:
+        - generic [ref=e65]: A
+        - strong [ref=e67]: Admin
+    - navigation [ref=e68]:
+      - button "Dashboard" [ref=e69] [cursor=pointer]
+      - button "Approvals" [ref=e735] [cursor=pointer]
+      - button "Browse" [ref=e81] [cursor=pointer]
+      - button "Add Knowledge Post" [active] [ref=e85] [cursor=pointer]
+      - button "Knowledge Base" [ref=e87] [cursor=pointer]
+      - button "Recommended" [ref=e90] [cursor=pointer]
+      - button "Bookmarks" [ref=e93] [cursor=pointer]
+      - button "Knowledge Assistant" [ref=e97] [cursor=pointer]
+      - button "Manage Taxonomy" [ref=e100] [cursor=pointer]
+      - button "Users" [ref=e105] [cursor=pointer]
+      - button "Role Management" [ref=e118] [cursor=pointer]
+      - button "Role Assign" [ref=e122] [cursor=pointer]
+      - button "Site Settings" [ref=e127] [cursor=pointer]
+      - button "Notifications 3" [ref=e131] [cursor=pointer]:
+        - text: Notifications
+        - generic [ref=e135]: "3"
+    - button "Logout" [ref=e137] [cursor=pointer]
+  - main [ref=e141]:
+    - generic [ref=e745]:
+      - generic [ref=e747]:
+        - generic [ref=e748]: Knowledge Contribution
+        - generic [ref=e749]:
+          - heading "Add Knowledge Post" [level=1] [ref=e750]
+          - paragraph [ref=e751]: Share reusable documentation, guides, or operational solutions across ABM teams.
+      - generic [ref=e753]:
+        - generic [ref=e754]:
+          - generic [ref=e755]: Title *
+          - textbox "e.g., Guide to API Rate Limiting & Architecture" [ref=e756]
+        - generic [ref=e757]:
+          - generic [ref=e758]:
+            - generic [ref=e759]:
+              - text: Department
+              - generic [ref=e764]: "*"
+            - combobox [ref=e765]:
+              - option "Development Team" [selected]
+              - option "DevOps Team"
+              - option "HR Team"
+              - option "IT Team"
+              - option "Org"
+              - option "SQA Team"
+              - option "Testing Team"
+          - generic [ref=e766]:
+            - generic [ref=e767]:
+              - text: Category
+              - generic [ref=e770]: "*"
+            - combobox [ref=e771]:
+              - option "Bug Report" [selected]
+              - option "Documentation"
+              - option "Feature Request"
+              - option "Knowledge Transfer"
+              - option "Task"
+              - option "UpdatedCat_1788856962478"
+        - generic [ref=e772]:
+          - generic [ref=e773]: Tags (comma-separated)
+          - textbox "e.g. backend, database, docker, performance" [ref=e777]
+        - generic [ref=e778]:
+          - generic [ref=e779]: Description & Knowledge Content *
+          - textbox "Provide clear steps, root cause explanations, code examples, or helpful context..." [ref=e780]
+        - generic [ref=e781]:
+          - generic [ref=e782]: Supporting Attachments (Optional)
+          - generic [ref=e783] [cursor=pointer]:
+            - strong [ref=e787]: Click or drag files here to attach
+            - generic [ref=e788]: Supports DOCX, PDF, TXT, PNG, JPG, MP4, WebM, MOV up to 500MB
+        - generic [ref=e789]:
+          - button "Cancel" [ref=e790] [cursor=pointer]
+          - button "Publish Knowledge" [ref=e791] [cursor=pointer]

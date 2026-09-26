@@ -1,0 +1,80 @@
+- generic [ref=e1259]:
+  - complementary [ref=e1260]:
+    - generic [ref=e1261]:
+      - generic [ref=e1262]:
+        - img "Logo" [ref=e1263]
+        - generic [ref=e1264]: TaskIQ
+      - generic [ref=e1265]:
+        - generic [ref=e1266]: A
+        - strong [ref=e1268]: Admin
+    - navigation [ref=e1269]:
+      - button "Dashboard" [ref=e1270] [cursor=pointer]
+      - button "Approvals" [ref=e1276] [cursor=pointer]
+      - button "Browse" [ref=e1281] [cursor=pointer]
+      - button "Add Knowledge Post" [ref=e1285] [cursor=pointer]
+      - button "Knowledge Base" [ref=e1287] [cursor=pointer]
+      - button "Recommended" [ref=e1290] [cursor=pointer]
+      - button "Bookmarks" [ref=e1293] [cursor=pointer]
+      - button "Knowledge Assistant" [ref=e1297] [cursor=pointer]
+      - button "Manage Taxonomy" [ref=e1300] [cursor=pointer]
+      - button "Users" [ref=e1305] [cursor=pointer]
+      - button "Role Management" [ref=e1318] [cursor=pointer]
+      - button "Role Assign" [ref=e1322] [cursor=pointer]
+      - button "Site Settings" [ref=e1327] [cursor=pointer]
+      - button "Notifications 3" [ref=e1331] [cursor=pointer]:
+        - text: Notifications
+        - generic [ref=e1335]: "3"
+    - button "Logout" [ref=e1337] [cursor=pointer]
+  - main [ref=e1341]:
+    - generic [ref=e1342]:
+      - generic [ref=e1344]:
+        - generic [ref=e1345]: Personal Collection
+        - generic [ref=e1346]:
+          - heading "Bookmarks" [level=1] [ref=e1347]
+          - paragraph [ref=e1348]: Quick access to all your saved walkthrough videos, task guides, and technical posts.
+      - generic [ref=e1349]:
+        - generic [ref=e1350]:
+          - textbox "Search bookmarked items by title, description, or department..." [ref=e1352]
+          - combobox [ref=e1358]:
+            - option "All Departments" [selected]
+            - option "Development Team"
+            - option "DevOps Team"
+            - option "HR Team"
+            - option "IT Team"
+            - option "Org"
+            - option "SQA Team"
+            - option "Testing Team"
+          - combobox [ref=e1363]:
+            - option "Newest First" [selected]
+            - option "Oldest First"
+            - option "Title (A-Z)"
+        - generic [ref=e1364]:
+          - button "All Bookmarks 1" [ref=e1365] [cursor=pointer]:
+            - generic [ref=e1366]: All Bookmarks
+            - generic [ref=e1367]: "1"
+          - button "Videos 0" [ref=e1368] [cursor=pointer]:
+            - generic [ref=e1372]: Videos
+            - generic [ref=e1373]: "0"
+          - button "Knowledge Posts 1" [ref=e1374] [cursor=pointer]:
+            - generic [ref=e1378]: Knowledge Posts
+            - generic [ref=e1379]: "1"
+          - button "Task Guides 0" [ref=e1380] [cursor=pointer]:
+            - generic [ref=e1385]: Task Guides
+            - generic [ref=e1386]: "0"
+      - generic [ref=e1387]: Showing 1 saved item
+      - article [ref=e1390]:
+        - generic [ref=e1391]:
+          - generic [ref=e1392]:
+            - generic [ref=e1393]: A
+            - generic [ref=e1395]:
+              - strong [ref=e1396]: Admin
+              - generic [ref=e1397]: Development Team
+              - generic [ref=e1398]: · 3h ago
+          - generic [ref=e1399]:
+            - generic [ref=e1400]: Knowledge Post
+            - button "Remove bookmark" [ref=e1405] [cursor=pointer]
+        - heading "[E2E-TEST] CI/CD Best Practices Guide" [level=3] [ref=e1409] [cursor=pointer]
+        - paragraph [ref=e1410]: This is an end-to-end practical test guide for CI/CD deployments and pipelines. Follow automated steps for verification.
+        - generic [ref=e1411]:
+          - generic [ref=e1412]: Bug Report
+          - button "View Resource" [ref=e1414] [cursor=pointer]

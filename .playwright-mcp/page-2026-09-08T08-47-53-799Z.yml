@@ -1,0 +1,67 @@
+- generic [ref=e58]:
+  - complementary [ref=e59]:
+    - generic [ref=e60]:
+      - generic [ref=e61]:
+        - img "Logo" [ref=e62]
+        - generic [ref=e63]: TaskIQ
+      - generic [ref=e64]:
+        - generic [ref=e65]: A
+        - strong [ref=e67]: Admin
+    - navigation [ref=e68]:
+      - button "Dashboard" [ref=e69] [cursor=pointer]
+      - button "Approvals" [ref=e735] [cursor=pointer]
+      - button "Browse" [ref=e81] [cursor=pointer]
+      - button "Add Knowledge Post" [ref=e85] [cursor=pointer]
+      - button "Knowledge Base" [ref=e87] [cursor=pointer]
+      - button "Recommended" [ref=e90] [cursor=pointer]
+      - button "Bookmarks" [active] [ref=e93] [cursor=pointer]
+      - button "Knowledge Assistant" [ref=e97] [cursor=pointer]
+      - button "Manage Taxonomy" [ref=e100] [cursor=pointer]
+      - button "Users" [ref=e105] [cursor=pointer]
+      - button "Role Management" [ref=e118] [cursor=pointer]
+      - button "Role Assign" [ref=e122] [cursor=pointer]
+      - button "Site Settings" [ref=e127] [cursor=pointer]
+      - button "Notifications 3" [ref=e131] [cursor=pointer]:
+        - text: Notifications
+        - generic [ref=e135]: "3"
+    - button "Logout" [ref=e137] [cursor=pointer]
+  - main [ref=e141]:
+    - generic [ref=e1203]:
+      - generic [ref=e1205]:
+        - generic [ref=e1206]: Personal Collection
+        - generic [ref=e1207]:
+          - heading "Bookmarks" [level=1] [ref=e1208]
+          - paragraph [ref=e1209]: Quick access to all your saved walkthrough videos, task guides, and technical posts.
+      - generic [ref=e1210]:
+        - generic [ref=e1211]:
+          - textbox "Search bookmarked items by title, description, or department..." [ref=e1213]
+          - combobox [ref=e1219]:
+            - option "All Departments" [selected]
+            - option "Development Team"
+            - option "DevOps Team"
+            - option "HR Team"
+            - option "IT Team"
+            - option "Org"
+            - option "SQA Team"
+            - option "Testing Team"
+          - combobox [ref=e1224]:
+            - option "Newest First" [selected]
+            - option "Oldest First"
+            - option "Title (A-Z)"
+        - generic [ref=e1225]:
+          - button "All Bookmarks 0" [ref=e1226] [cursor=pointer]:
+            - generic [ref=e1227]: All Bookmarks
+            - generic [ref=e1228]: "0"
+          - button "Videos 0" [ref=e1229] [cursor=pointer]:
+            - generic [ref=e1233]: Videos
+            - generic [ref=e1234]: "0"
+          - button "Knowledge Posts 0" [ref=e1235] [cursor=pointer]:
+            - generic [ref=e1239]: Knowledge Posts
+            - generic [ref=e1240]: "0"
+          - button "Task Guides 0" [ref=e1241] [cursor=pointer]:
+            - generic [ref=e1246]: Task Guides
+            - generic [ref=e1247]: "0"
+      - generic [ref=e1248]: Showing 0 saved items
+      - generic [ref=e1250]:
+        - generic [ref=e1251]: You have no saved bookmarks yet.
+        - button "Explore Knowledge Base" [ref=e1252] [cursor=pointer]

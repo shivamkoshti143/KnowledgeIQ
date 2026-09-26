@@ -1,0 +1,60 @@
+- generic [ref=e58]:
+  - complementary [ref=e59]:
+    - generic [ref=e60]:
+      - generic [ref=e61]:
+        - img "Logo" [ref=e62]
+        - generic [ref=e63]: TaskIQ
+      - generic [ref=e64]:
+        - generic [ref=e65]: A
+        - strong [ref=e67]: Admin
+    - navigation [ref=e68]:
+      - button "Dashboard" [ref=e69] [cursor=pointer]
+      - button "Approvals" [ref=e735] [cursor=pointer]
+      - button "Browse" [ref=e81] [cursor=pointer]
+      - button "Add Knowledge Post" [ref=e85] [cursor=pointer]
+      - button "Knowledge Base" [ref=e87] [cursor=pointer]
+      - button "Recommended" [ref=e90] [cursor=pointer]
+      - button "Bookmarks" [ref=e93] [cursor=pointer]
+      - button "Knowledge Assistant" [ref=e97] [cursor=pointer]
+      - button "Manage Taxonomy" [ref=e100] [cursor=pointer]
+      - button "Users" [ref=e105] [cursor=pointer]
+      - button "Role Management" [ref=e118] [cursor=pointer]
+      - button "Role Assign" [ref=e122] [cursor=pointer]
+      - button "Site Settings" [ref=e127] [cursor=pointer]
+      - button "Notifications 3" [ref=e131] [cursor=pointer]:
+        - text: Notifications
+        - generic [ref=e135]: "3"
+    - button "Logout" [ref=e137] [cursor=pointer]
+  - main [ref=e141]:
+    - generic [ref=e736]: Task Guide approved.
+    - generic [ref=e664]:
+      - generic [ref=e666]:
+        - generic [ref=e667]: Admin Workflow
+        - generic [ref=e668]:
+          - heading "Approvals" [level=1] [ref=e669]
+          - paragraph [ref=e670]: Review employee knowledge submissions, inspect attachments, and approve replaced files.
+      - generic [ref=e671]:
+        - generic [ref=e672]:
+          - textbox "Search pending items by title, uploader, or department..." [ref=e674]
+          - combobox [ref=e680]:
+            - option "All Departments" [selected]
+            - option "Development Team"
+            - option "DevOps Team"
+            - option "HR Team"
+            - option "IT Team"
+            - option "Org"
+            - option "SQA Team"
+            - option "Testing Team"
+        - generic [ref=e681]:
+          - button "All Queue 0" [ref=e737] [cursor=pointer]:
+            - generic [ref=e683]: All Queue
+            - generic [ref=e684]: "0"
+          - button "New Submissions 0" [ref=e738] [cursor=pointer]:
+            - generic [ref=e686]: New Submissions
+            - generic [ref=e687]: "0"
+          - button "File Re-approvals 0" [ref=e688] [cursor=pointer]:
+            - generic [ref=e689]: File Re-approvals
+            - generic [ref=e690]: "0"
+      - generic [ref=e691]:
+        - heading "All caught up!" [level=3] [ref=e743]
+        - paragraph [ref=e744]: No submissions or files currently pending review in this view.

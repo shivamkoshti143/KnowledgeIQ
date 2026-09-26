@@ -1,0 +1,134 @@
+- generic [ref=e1259]:
+  - complementary [ref=e1260]:
+    - generic [ref=e1261]:
+      - generic [ref=e1262]:
+        - img "Logo" [ref=e1263]
+        - generic [ref=e1264]: ABM TaskIQ Portal
+      - generic [ref=e1265]:
+        - generic [ref=e1266]: A
+        - strong [ref=e1268]: Admin
+    - navigation [ref=e1269]:
+      - button "Dashboard" [ref=e1270] [cursor=pointer]
+      - button "Approvals" [ref=e1276] [cursor=pointer]
+      - button "Browse" [ref=e1281] [cursor=pointer]
+      - button "Add Knowledge Post" [ref=e1285] [cursor=pointer]
+      - button "Knowledge Base" [ref=e1287] [cursor=pointer]
+      - button "Recommended" [ref=e1290] [cursor=pointer]
+      - button "Bookmarks" [ref=e1293] [cursor=pointer]
+      - button "Knowledge Assistant" [ref=e1297] [cursor=pointer]
+      - button "Manage Taxonomy" [ref=e1300] [cursor=pointer]
+      - button "Users" [ref=e1305] [cursor=pointer]
+      - button "Role Management" [ref=e1318] [cursor=pointer]
+      - button "Role Assign" [ref=e1322] [cursor=pointer]
+      - button "Site Settings" [ref=e1327] [cursor=pointer]
+      - button "Notifications" [active] [ref=e2403] [cursor=pointer]
+    - button "Logout" [ref=e1337] [cursor=pointer]
+  - main [ref=e1341]:
+    - generic [ref=e2404]:
+      - generic [ref=e2406]:
+        - generic [ref=e2407]: Activity Center
+        - generic [ref=e2408]:
+          - heading "Notifications" [level=1] [ref=e2409]
+          - paragraph [ref=e2410]: Stay updated on submission approvals, admin reviews, and replies across the knowledge portal.
+      - generic [ref=e2411]:
+        - button "All Notifications (14)" [ref=e2412] [cursor=pointer]
+        - button "Approvals & Reviews" [ref=e2413] [cursor=pointer]
+      - generic [ref=e2414]:
+        - article "Click to view details" [ref=e2415] [cursor=pointer]:
+          - generic [ref=e2420]:
+            - paragraph [ref=e2421]: "[TEST] Video Submission 1788857118439 is waiting for review."
+            - generic [ref=e2422]:
+              - generic [ref=e2426]: 10m ago
+              - generic [ref=e2427]: ·
+              - generic [ref=e2428]: 9/8/2026, 2:15:18 PM
+        - article "Click to view details" [ref=e2431] [cursor=pointer]:
+          - generic [ref=e2436]:
+            - paragraph [ref=e2437]: "[TEST] Video Submission 1788857085685 is waiting for review."
+            - generic [ref=e2438]:
+              - generic [ref=e2442]: 11m ago
+              - generic [ref=e2443]: ·
+              - generic [ref=e2444]: 9/8/2026, 2:14:45 PM
+        - article "Click to view details" [ref=e2447] [cursor=pointer]:
+          - generic [ref=e2452]:
+            - paragraph [ref=e2453]: Task for comment is waiting for review.
+            - generic [ref=e2454]:
+              - generic [ref=e2458]: 1h ago
+              - generic [ref=e2459]: ·
+              - generic [ref=e2460]: 9/8/2026, 1:14:47 PM
+        - article "Click to view details" [ref=e2463] [cursor=pointer]:
+          - generic [ref=e2468]:
+            - paragraph [ref=e2469]: SUDM DULB Master KT is waiting for review.
+            - generic [ref=e2470]:
+              - generic [ref=e2474]: 5d ago
+              - generic [ref=e2475]: ·
+              - generic [ref=e2476]: 9/2/2026, 3:40:45 PM
+        - article "Click to view details" [ref=e2479] [cursor=pointer]:
+          - generic [ref=e2484]:
+            - paragraph [ref=e2485]: Playwright Automation using AI is waiting for review.
+            - generic [ref=e2486]:
+              - generic [ref=e2490]: 6d ago
+              - generic [ref=e2491]: ·
+              - generic [ref=e2492]: 9/2/2026, 11:14:47 AM
+        - article "Click to view details" [ref=e2495] [cursor=pointer]:
+          - generic [ref=e2500]:
+            - paragraph [ref=e2501]: A file was replaced for task "Auto-Heal Automation using Playwright MCP " and is awaiting re-approval.
+            - generic [ref=e2502]:
+              - generic [ref=e2506]: 6d ago
+              - generic [ref=e2507]: ·
+              - generic [ref=e2508]: 9/2/2026, 10:34:53 AM
+        - article "Click to view details" [ref=e2511] [cursor=pointer]:
+          - generic [ref=e2516]:
+            - paragraph [ref=e2517]: Redmine Training for Onsite Team is waiting for review.
+            - generic [ref=e2518]:
+              - generic [ref=e2522]: 6d ago
+              - generic [ref=e2523]: ·
+              - generic [ref=e2524]: 9/2/2026, 10:21:18 AM
+        - article "Click to view details" [ref=e2527] [cursor=pointer]:
+          - generic [ref=e2532]:
+            - paragraph [ref=e2533]: Auto-Heal Automation using Playwright MCP is waiting for review.
+            - generic [ref=e2534]:
+              - generic [ref=e2538]: 6d ago
+              - generic [ref=e2539]: ·
+              - generic [ref=e2540]: 9/2/2026, 10:05:48 AM
+        - article "Click to view details" [ref=e2543] [cursor=pointer]:
+          - generic [ref=e2548]:
+            - paragraph [ref=e2549]: Testing Submit Review Message Notification is waiting for review.
+            - generic [ref=e2550]:
+              - generic [ref=e2554]: Sep 1, 2026
+              - generic [ref=e2555]: ·
+              - generic [ref=e2556]: 9/1/2026, 12:08:27 PM
+        - article "Click to view details" [ref=e2559] [cursor=pointer]:
+          - generic [ref=e2564]:
+            - paragraph [ref=e2565]: "Content is removed by admin: Your knowledge post \"Admin Regression Knowledge Post\" was removed by an administrator. Reason: Completed regression test"
+            - generic [ref=e2566]:
+              - generic [ref=e2570]: Aug 26, 2026
+              - generic [ref=e2571]: ·
+              - generic [ref=e2572]: 8/26/2026, 11:32:49 AM
+        - article "Click to view details" [ref=e2575] [cursor=pointer]:
+          - generic [ref=e2580]:
+            - paragraph [ref=e2581]: "Content is removed by admin: Your knowledge post \"Admin Regression Knowledge Post\" was removed by an administrator. Reason: Completed regression test"
+            - generic [ref=e2582]:
+              - generic [ref=e2586]: Aug 26, 2026
+              - generic [ref=e2587]: ·
+              - generic [ref=e2588]: 8/26/2026, 11:32:28 AM
+        - article "Click to view details" [ref=e2591] [cursor=pointer]:
+          - generic [ref=e2596]:
+            - paragraph [ref=e2597]: Deletable Task Verify is waiting for review.
+            - generic [ref=e2598]:
+              - generic [ref=e2602]: Jul 27, 2026
+              - generic [ref=e2603]: ·
+              - generic [ref=e2604]: 7/27/2026, 1:07:25 PM
+        - article "Click to view details" [ref=e2607] [cursor=pointer]:
+          - generic [ref=e2612]:
+            - paragraph [ref=e2613]: Deletable Task is waiting for review.
+            - generic [ref=e2614]:
+              - generic [ref=e2618]: Jul 27, 2026
+              - generic [ref=e2619]: ·
+              - generic [ref=e2620]: 7/27/2026, 12:22:50 PM
+        - article "Click to view details" [ref=e2623] [cursor=pointer]:
+          - generic [ref=e2628]:
+            - paragraph [ref=e2629]: What is DSA ? is waiting for review.
+            - generic [ref=e2630]:
+              - generic [ref=e2634]: Jul 27, 2026
+              - generic [ref=e2635]: ·
+              - generic [ref=e2636]: 7/27/2026, 11:55:33 AM

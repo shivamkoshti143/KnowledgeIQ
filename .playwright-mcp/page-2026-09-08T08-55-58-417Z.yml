@@ -1,0 +1,228 @@
+- generic [ref=e1259]:
+  - complementary [ref=e1260]:
+    - generic [ref=e1261]:
+      - generic [ref=e1262]:
+        - img "Logo" [ref=e1263]
+        - generic [ref=e1264]: ABM TaskIQ Portal
+      - generic [ref=e1265]:
+        - generic [ref=e1266]: A
+        - strong [ref=e1268]: Admin
+    - navigation [ref=e1269]:
+      - button "Dashboard" [ref=e1270] [cursor=pointer]
+      - button "Approvals" [ref=e1276] [cursor=pointer]
+      - button "Browse" [ref=e1281] [cursor=pointer]
+      - button "Add Knowledge Post" [ref=e1285] [cursor=pointer]
+      - button "Knowledge Base" [ref=e1287] [cursor=pointer]
+      - button "Recommended" [ref=e1290] [cursor=pointer]
+      - button "Bookmarks" [ref=e1293] [cursor=pointer]
+      - button "Knowledge Assistant" [ref=e1297] [cursor=pointer]
+      - button "Manage Taxonomy" [ref=e1300] [cursor=pointer]
+      - button "Users" [active] [ref=e1305] [cursor=pointer]
+      - button "Role Management" [ref=e1318] [cursor=pointer]
+      - button "Role Assign" [ref=e1322] [cursor=pointer]
+      - button "Site Settings" [ref=e1327] [cursor=pointer]
+      - button "Notifications 3" [ref=e1331] [cursor=pointer]:
+        - text: Notifications
+        - generic [ref=e1335]: "3"
+    - button "Logout" [ref=e1337] [cursor=pointer]
+  - main [ref=e1341]:
+    - generic [ref=e2233]:
+      - generic [ref=e2234]:
+        - generic [ref=e2235]:
+          - generic [ref=e2236]: User Management
+          - generic [ref=e2237]:
+            - heading "Users" [level=1] [ref=e2238]
+            - paragraph [ref=e2239]: Manage user accounts and active/inactive status across 8 total registered users.
+        - textbox "Search users..." [ref=e2242]
+      - generic [ref=e2243]:
+        - generic [ref=e2244]:
+          - generic [ref=e2251]:
+            - heading "Active Users" [level=2] [ref=e2252]
+            - paragraph [ref=e2253]: 5 active accounts
+          - generic [ref=e2254]: 5 Active
+        - generic [ref=e2255]:
+          - generic [ref=e2256]:
+            - generic [ref=e2257]:
+              - generic [ref=e2258]: A
+              - generic [ref=e2259]:
+                - generic [ref=e2260]:
+                  - generic [ref=e2261]: Admin
+                  - generic [ref=e2262]: Admin
+                - generic [ref=e2263]: admin@abm.com
+                - generic [ref=e2268]:
+                  - text: "Last active:"
+                  - strong [ref=e2269]: Just now
+            - combobox [ref=e2271] [cursor=pointer]:
+              - option "Active" [selected]
+              - option "Inactive"
+          - generic [ref=e2272]:
+            - generic [ref=e2273]:
+              - generic [ref=e2274]: GG
+              - generic [ref=e2275]:
+                - generic [ref=e2276]:
+                  - generic [ref=e2277]: Gaurav Gaikwad
+                  - generic [ref=e2278]: Development Team
+                - generic [ref=e2279]: gaurav.gaikwad@abmindia.com
+                - generic [ref=e2284]:
+                  - text: "Last active:"
+                  - strong [ref=e2285]: 10m ago
+            - generic [ref=e2286]:
+              - combobox [ref=e2287] [cursor=pointer]:
+                - option "No Department"
+                - option "Development Team" [selected]
+                - option "DevOps Team"
+                - option "HR Team"
+                - option "IT Team"
+                - option "Org"
+                - option "SQA Team"
+                - option "Testing Team"
+              - combobox [ref=e2288] [cursor=pointer]:
+                - option "Active" [selected]
+                - option "Inactive"
+          - generic [ref=e2289]:
+            - generic [ref=e2290]:
+              - generic [ref=e2291]: SG
+              - generic [ref=e2292]:
+                - generic [ref=e2293]:
+                  - generic [ref=e2294]: Shailesh Gupta
+                  - generic [ref=e2295]: Testing Team
+                - generic [ref=e2296]: shailesh.gupta@abmindia.com
+                - generic [ref=e2301]:
+                  - text: "Last active:"
+                  - strong [ref=e2302]: 1h ago
+            - generic [ref=e2303]:
+              - combobox [ref=e2304] [cursor=pointer]:
+                - option "No Department"
+                - option "Development Team"
+                - option "DevOps Team"
+                - option "HR Team"
+                - option "IT Team"
+                - option "Org"
+                - option "SQA Team"
+                - option "Testing Team" [selected]
+              - combobox [ref=e2305] [cursor=pointer]:
+                - option "Active" [selected]
+                - option "Inactive"
+          - generic [ref=e2306]:
+            - generic [ref=e2307]:
+              - generic [ref=e2308]: SK
+              - generic [ref=e2309]:
+                - generic [ref=e2310]: Shivam Koshti
+                - generic [ref=e2312]: shivam.koshti@abmindia.com
+                - generic [ref=e2317]:
+                  - text: "Last active:"
+                  - strong [ref=e2318]: 5m ago
+            - generic [ref=e2319]:
+              - combobox [ref=e2320] [cursor=pointer]:
+                - option "No Department" [selected]
+                - option "Development Team"
+                - option "DevOps Team"
+                - option "HR Team"
+                - option "IT Team"
+                - option "Org"
+                - option "SQA Team"
+                - option "Testing Team"
+              - combobox [ref=e2321] [cursor=pointer]:
+                - option "Active" [selected]
+                - option "Inactive"
+          - generic [ref=e2322]:
+            - generic [ref=e2323]:
+              - generic [ref=e2324]: VH
+              - generic [ref=e2325]:
+                - generic [ref=e2326]:
+                  - generic [ref=e2327]: Vishal Hake
+                  - generic [ref=e2328]: SQA Team
+                - generic [ref=e2329]: vishal.hake@abmindia.com
+                - generic [ref=e2334]:
+                  - text: "Last active:"
+                  - strong [ref=e2335]: 6d ago
+            - generic [ref=e2336]:
+              - combobox [ref=e2337] [cursor=pointer]:
+                - option "No Department"
+                - option "Development Team"
+                - option "DevOps Team"
+                - option "HR Team"
+                - option "IT Team"
+                - option "Org"
+                - option "SQA Team" [selected]
+                - option "Testing Team"
+              - combobox [ref=e2338] [cursor=pointer]:
+                - option "Active" [selected]
+                - option "Inactive"
+      - generic [ref=e2339]:
+        - generic [ref=e2340]:
+          - generic [ref=e2348]:
+            - heading "Inactive Users" [level=2] [ref=e2349]
+            - paragraph [ref=e2350]: 3 disabled accounts
+          - generic [ref=e2351]: 3 Inactive
+        - generic [ref=e2352]:
+          - generic [ref=e2353]:
+            - generic [ref=e2354]:
+              - generic [ref=e2355]: AM
+              - generic [ref=e2356]:
+                - generic [ref=e2357]:
+                  - generic [ref=e2358]: Arjun M
+                  - generic [ref=e2359]: IT Team
+                - generic [ref=e2360]: arjun@abm.com
+                - generic [ref=e2365]:
+                  - text: "Last active:"
+                  - strong [ref=e2366]: Aug 27, 2026 at 01:53 PM
+            - generic [ref=e2367]:
+              - combobox [ref=e2368] [cursor=pointer]:
+                - option "No Department"
+                - option "Development Team"
+                - option "DevOps Team"
+                - option "HR Team"
+                - option "IT Team" [selected]
+                - option "Org"
+                - option "SQA Team"
+                - option "Testing Team"
+              - combobox [ref=e2369] [cursor=pointer]:
+                - option "Active"
+                - option "Inactive" [selected]
+          - generic [ref=e2370]:
+            - generic [ref=e2371]:
+              - generic [ref=e2372]: K
+              - generic [ref=e2373]:
+                - generic [ref=e2374]: Karthik
+                - generic [ref=e2376]: karthik@abm.com
+                - generic [ref=e2381]:
+                  - text: "Last active:"
+                  - strong [ref=e2382]: 1h ago
+            - generic [ref=e2383]:
+              - combobox [ref=e2384] [cursor=pointer]:
+                - option "No Department" [selected]
+                - option "Development Team"
+                - option "DevOps Team"
+                - option "HR Team"
+                - option "IT Team"
+                - option "Org"
+                - option "SQA Team"
+                - option "Testing Team"
+              - combobox [ref=e2385] [cursor=pointer]:
+                - option "Active"
+                - option "Inactive" [selected]
+          - generic [ref=e2386]:
+            - generic [ref=e2387]:
+              - generic [ref=e2388]: PS
+              - generic [ref=e2389]:
+                - generic [ref=e2390]:
+                  - generic [ref=e2391]: Priya S
+                  - generic [ref=e2392]: SQA Team
+                - generic [ref=e2393]: priya@abm.com
+                - generic [ref=e2398]:
+                  - text: "Last active:"
+                  - strong [ref=e2399]: Jul 23, 2026 at 12:27 PM
+            - generic [ref=e2400]:
+              - combobox [ref=e2401] [cursor=pointer]:
+                - option "No Department"
+                - option "Development Team"
+                - option "DevOps Team"
+                - option "HR Team"
+                - option "IT Team"
+                - option "Org"
+                - option "SQA Team" [selected]
+                - option "Testing Team"
+              - combobox [ref=e2402] [cursor=pointer]:
+                - option "Active"
+                - option "Inactive" [selected]

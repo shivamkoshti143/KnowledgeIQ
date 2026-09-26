@@ -1,0 +1,56 @@
+- generic [ref=e1259]:
+  - complementary [ref=e1260]:
+    - generic [ref=e1261]:
+      - generic [ref=e1262]:
+        - img "Logo" [ref=e1263]
+        - generic [ref=e1264]: ABM TaskIQ Portal
+      - generic [ref=e1265]:
+        - generic [ref=e1266]: A
+        - strong [ref=e1268]: Admin
+    - navigation [ref=e1269]:
+      - button "Dashboard" [ref=e1270] [cursor=pointer]
+      - button "Approvals" [ref=e1276] [cursor=pointer]
+      - button "Browse" [ref=e1281] [cursor=pointer]
+      - button "Add Knowledge Post" [ref=e1285] [cursor=pointer]
+      - button "Knowledge Base" [ref=e1287] [cursor=pointer]
+      - button "Recommended" [ref=e1290] [cursor=pointer]
+      - button "Bookmarks" [ref=e1293] [cursor=pointer]
+      - button "Knowledge Assistant" [active] [ref=e1297] [cursor=pointer]
+      - button "Manage Taxonomy" [ref=e1300] [cursor=pointer]
+      - button "Users" [ref=e1305] [cursor=pointer]
+      - button "Role Management" [ref=e1318] [cursor=pointer]
+      - button "Role Assign" [ref=e1322] [cursor=pointer]
+      - button "Site Settings" [ref=e1327] [cursor=pointer]
+      - button "Notifications" [ref=e2403] [cursor=pointer]
+    - button "Logout" [ref=e1337] [cursor=pointer]
+  - main [ref=e1341]:
+    - generic [ref=e2639]:
+      - generic [ref=e2641]:
+        - generic [ref=e2642]: AI Assistant
+        - generic [ref=e2643]:
+          - heading "Knowledge Assistant" [level=1] [ref=e2644]
+          - paragraph [ref=e2645]: Ask questions about tasks, operational solutions, workflows, and company-wide ABM knowledge.
+      - generic [ref=e2646]:
+        - generic [ref=e2648]:
+          - generic [ref=e2649]:
+            - generic [ref=e2650]: Summarize recent IT and DevOps walkthroughs
+            - generic [ref=e2651]: A
+          - generic [ref=e2658]:
+            - text: "I found these items in our portal: 1."
+            - button "📄 Docker Containerization Best Practices" [ref=e2659] [cursor=pointer]
+            - text: "- Production guidelines for Docker builds, multi-stage containers, and image optimization. 2."
+            - button "📄 Database Scaling" [ref=e2660] [cursor=pointer]
+            - text: "- 🚀 Database Scaling isn’t just about handling millions of users—it’s about building systems that never stop.** If you 3."
+            - button "📄 What is DSA ?" [ref=e2661] [cursor=pointer]
+            - text: "- DSA Patterns Handbook 4."
+            - button "📄 Testing Submit Review Message Notification" [ref=e2662] [cursor=pointer]
+            - text: "- This is a test submission to verify that the message Knowledge is sent for review is displayed on employee submission. 5."
+            - button "📄 Auto-Heal Automation using Playwright" [ref=e2663] [cursor=pointer]
+            - text: "- These can be used as test artifacts for upload, download, file validation, attachment handling, and auto-healing scenari 6."
+            - 'button "📄 The AI System Operator: Mastering Prompt Engineering & AI Workflows" [ref=e2664] [cursor=pointer]'
+            - text: "- A practical guide to mastering AI through structured prompting, context management, hallucination prevention, and profes 7."
+            - button "📄 What is CI/CD ?" [ref=e2665] [cursor=pointer]
+            - text: "- CI/CD Handbook Click any item above to open its details."
+        - generic [ref=e2667]:
+          - textbox "Ask anything about ABM knowledge, procedures, or troubleshooting..." [ref=e2668]
+          - button "Send" [disabled] [ref=e2669] [cursor=pointer]

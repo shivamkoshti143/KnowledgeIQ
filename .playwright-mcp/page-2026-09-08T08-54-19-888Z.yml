@@ -1,0 +1,130 @@
+- generic [ref=e1259]:
+  - complementary [ref=e1260]:
+    - generic [ref=e1261]:
+      - generic [ref=e1262]:
+        - img "Logo" [ref=e1263]
+        - generic [ref=e1264]: TaskIQ
+      - generic [ref=e1265]:
+        - generic [ref=e1266]: A
+        - strong [ref=e1268]: Admin
+    - navigation [ref=e1269]:
+      - button "Dashboard" [ref=e1270] [cursor=pointer]
+      - button "Approvals" [ref=e1276] [cursor=pointer]
+      - button "Browse" [ref=e1281] [cursor=pointer]
+      - button "Add Knowledge Post" [ref=e1285] [cursor=pointer]
+      - button "Knowledge Base" [ref=e1287] [cursor=pointer]
+      - button "Recommended" [ref=e1290] [cursor=pointer]
+      - button "Bookmarks" [ref=e1293] [cursor=pointer]
+      - button "Knowledge Assistant" [ref=e1297] [cursor=pointer]
+      - button "Manage Taxonomy" [ref=e1300] [cursor=pointer]
+      - button "Users" [ref=e1305] [cursor=pointer]
+      - button "Role Management" [ref=e1318] [cursor=pointer]
+      - button "Role Assign" [ref=e1322] [cursor=pointer]
+      - button "Site Settings" [ref=e1327] [cursor=pointer]
+      - button "Notifications 3" [ref=e1331] [cursor=pointer]:
+        - text: Notifications
+        - generic [ref=e1335]: "3"
+    - button "Logout" [ref=e1337] [cursor=pointer]
+  - main [ref=e1341]:
+    - generic [ref=e1992]: Discussion updated.
+    - generic [ref=e1826]:
+      - generic [ref=e1827]:
+        - button "Back to My Knowledge" [ref=e1893] [cursor=pointer]
+        - generic [ref=e1831]:
+          - button "Add bookmark" [ref=e1832] [cursor=pointer]
+          - button "Recommended" [ref=e1991] [cursor=pointer]
+          - button "Delete" [ref=e1838] [cursor=pointer]
+      - generic [ref=e1842]:
+        - generic [ref=e1843]:
+          - generic [ref=e1844]: Task Knowledge
+          - generic [ref=e1849]: Documentation
+          - generic [ref=e1850]: approved
+        - heading "Redmine Training for Onsite Team" [level=1] [ref=e1898]
+        - generic [ref=e1853]:
+          - generic [ref=e1854]: GG
+          - generic [ref=e1855]:
+            - generic [ref=e1856]:
+              - strong [ref=e1857]: Gaurav Gaikwad
+              - generic [ref=e1858]: Development Team
+            - generic [ref=e1859]: Published 6d ago · September 2, 2026
+      - generic [ref=e1860]:
+        - generic [ref=e1861]:
+          - generic [ref=e1862]:
+            - heading "Description" [level=2] [ref=e1863]
+            - generic [ref=e1864]: Proper documentation to help the onsite team effectively use Redmine for project management, issue tracking, task assignment, progress monitoring, and team collaboration.
+          - generic [ref=e1899]:
+            - heading "Attached Media & Documents (1)" [level=2] [ref=e1900]
+            - generic [ref=e1901]:
+              - generic [ref=e1902]:
+                - generic [ref=e1903]: 1788324678089-14110069.pptx
+                - generic [ref=e1910]:
+                  - generic [ref=e1911]: 1 of 1 file
+                  - link "Download file" [ref=e1912] [cursor=pointer]:
+                    - /url: /uploads/1788324678089-14110069.pptx
+              - generic [ref=e1917]:
+                - strong [ref=e1922]: 1788324678089-14110069.pptx
+                - generic [ref=e1923]: pptx File
+                - link "Download Attachment" [ref=e1924] [cursor=pointer]:
+                  - /url: /uploads/1788324678089-14110069.pptx
+          - generic [ref=e1929]:
+            - heading "Discussion (4)" [level=2] [ref=e1993]
+            - generic [ref=e1935]:
+              - generic [ref=e1936]: A
+              - generic [ref=e1937]:
+                - textbox "Ask a question, share feedback, or add context..." [ref=e1938]
+                - button "Post" [active] [ref=e1940] [cursor=pointer]
+            - generic [ref=e1944]:
+              - generic [ref=e1945]:
+                - generic [ref=e1946]: SG
+                - generic [ref=e1947]:
+                  - generic [ref=e1948]:
+                    - strong [ref=e1949]: Shailesh Gupta
+                    - generic [ref=e1950]: 9/2/2026, 10:39:44 AM
+                  - paragraph [ref=e1951]: How can i log time in redmine?
+                  - button "Reply" [ref=e1952] [cursor=pointer]
+                  - generic [ref=e1957]:
+                    - generic [ref=e1958]: GG
+                    - generic [ref=e1959]:
+                      - generic [ref=e1960]:
+                        - strong [ref=e1961]: Gaurav Gaikwad
+                        - generic [ref=e1962]: 9/2/2026, 10:41:48 AM
+                      - paragraph [ref=e1963]: You can simply log time against tickets you worked on.
+                      - button "Reply" [ref=e1964] [cursor=pointer]
+                      - generic [ref=e1969]:
+                        - generic [ref=e1970]: SG
+                        - generic [ref=e1971]:
+                          - generic [ref=e1972]:
+                            - strong [ref=e1973]: Shailesh Gupta
+                            - generic [ref=e1974]: 9/2/2026, 10:42:28 AM
+                          - paragraph [ref=e1975]: Thank you.
+                          - button "Reply" [ref=e1976] [cursor=pointer]
+              - generic [ref=e1994]:
+                - generic [ref=e1995]: A
+                - generic [ref=e1996]:
+                  - generic [ref=e1997]:
+                    - strong [ref=e1998]: Admin
+                    - generic [ref=e1999]: 9/8/2026, 2:24:18 PM
+                  - paragraph [ref=e2000]: "[E2E-TEST] Verified Redmine walkthrough and time logging."
+                  - button "Reply" [ref=e2001] [cursor=pointer]
+        - complementary [ref=e1865]:
+          - generic [ref=e1866]:
+            - heading "Resource Details" [level=3] [ref=e1867]
+            - generic [ref=e1868]:
+              - generic [ref=e1869]:
+                - generic [ref=e1870]: Department
+                - strong [ref=e1875]: Development Team
+              - generic [ref=e1876]:
+                - generic [ref=e1877]: Category
+                - strong [ref=e1880]: Documentation
+              - generic [ref=e1881]:
+                - generic [ref=e1882]: Uploaded Date
+                - strong [ref=e1885]: Sep 2, 2026
+              - generic [ref=e1886]:
+                - generic [ref=e1887]: Approval Status
+                - generic [ref=e1891]: approved
+            - generic [ref=e1980]:
+              - generic [ref=e1981]: Attachments (1)
+              - generic [ref=e1984]:
+                - link "1788324678089-14110069.pptx" [ref=e1985] [cursor=pointer]:
+                  - /url: /uploads/1788324678089-14110069.pptx
+                - generic [ref=e1990]: approved

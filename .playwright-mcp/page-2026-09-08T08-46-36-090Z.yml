@@ -1,0 +1,78 @@
+- generic [ref=e58]:
+  - complementary [ref=e59]:
+    - generic [ref=e60]:
+      - generic [ref=e61]:
+        - img "Logo" [ref=e62]
+        - generic [ref=e63]: TaskIQ
+      - generic [ref=e64]:
+        - generic [ref=e65]: A
+        - strong [ref=e67]: Admin
+    - navigation [ref=e68]:
+      - button "Dashboard" [ref=e69] [cursor=pointer]
+      - button "Approvals 1" [active] [ref=e75] [cursor=pointer]:
+        - text: Approvals
+        - generic [ref=e80]: "1"
+      - button "Browse" [ref=e81] [cursor=pointer]
+      - button "Add Knowledge Post" [ref=e85] [cursor=pointer]
+      - button "Knowledge Base" [ref=e87] [cursor=pointer]
+      - button "Recommended" [ref=e90] [cursor=pointer]
+      - button "Bookmarks" [ref=e93] [cursor=pointer]
+      - button "Knowledge Assistant" [ref=e97] [cursor=pointer]
+      - button "Manage Taxonomy" [ref=e100] [cursor=pointer]
+      - button "Users" [ref=e105] [cursor=pointer]
+      - button "Role Management" [ref=e118] [cursor=pointer]
+      - button "Role Assign" [ref=e122] [cursor=pointer]
+      - button "Site Settings" [ref=e127] [cursor=pointer]
+      - button "Notifications 3" [ref=e131] [cursor=pointer]:
+        - text: Notifications
+        - generic [ref=e135]: "3"
+    - button "Logout" [ref=e137] [cursor=pointer]
+  - main [ref=e141]:
+    - generic [ref=e421]:
+      - generic [ref=e423]:
+        - generic [ref=e424]: Admin Workflow
+        - generic [ref=e425]:
+          - heading "Approvals" [level=1] [ref=e426]
+          - paragraph [ref=e427]: Review employee knowledge submissions, inspect attachments, and approve replaced files.
+      - generic [ref=e428]:
+        - generic [ref=e429]:
+          - textbox "Search pending items by title, uploader, or department..." [ref=e431]
+          - combobox [ref=e437]:
+            - option "All Departments" [selected]
+            - option "Development Team"
+            - option "DevOps Team"
+            - option "HR Team"
+            - option "IT Team"
+            - option "Org"
+            - option "SQA Team"
+            - option "Testing Team"
+        - generic [ref=e438]:
+          - button "All Queue 1" [ref=e439] [cursor=pointer]:
+            - generic [ref=e440]: All Queue
+            - generic [ref=e441]: "1"
+          - button "New Submissions 1" [ref=e442] [cursor=pointer]:
+            - generic [ref=e443]: New Submissions
+            - generic [ref=e444]: "1"
+          - button "File Re-approvals 0" [ref=e445] [cursor=pointer]:
+            - generic [ref=e446]: File Re-approvals
+            - generic [ref=e447]: "0"
+      - article [ref=e449]:
+        - generic [ref=e450]:
+          - generic [ref=e451]:
+            - generic [ref=e452]: K
+            - generic [ref=e453]:
+              - generic [ref=e454]:
+                - strong [ref=e455]: Karthik
+                - generic [ref=e456]: IT Team
+                - generic [ref=e457]: · 4h ago
+              - generic [ref=e458]: Task Guide
+          - generic [ref=e460]:
+            - button "Preview" [ref=e461] [cursor=pointer]
+            - button "Approve" [ref=e466] [cursor=pointer]
+            - button "Reject" [ref=e470] [cursor=pointer]
+            - button "Recommend" [ref=e475] [cursor=pointer]
+            - button "Delete item" [ref=e478] [cursor=pointer]
+        - heading "Task for comment" [level=3] [ref=e482] [cursor=pointer]
+        - generic [ref=e483]:
+          - button "Attached Files (0)" [ref=e484] [cursor=pointer]
+          - generic [ref=e491]: New Submission Pending

@@ -1,0 +1,144 @@
+- generic [ref=e58]:
+  - complementary [ref=e59]:
+    - generic [ref=e60]:
+      - generic [ref=e61]:
+        - img "Logo" [ref=e62]
+        - generic [ref=e63]: TaskIQ
+      - generic [ref=e64]:
+        - generic [ref=e65]: A
+        - strong [ref=e67]: Admin
+    - navigation [ref=e68]:
+      - button "Dashboard" [ref=e69] [cursor=pointer]
+      - button "Approvals 1" [ref=e75] [cursor=pointer]:
+        - text: Approvals
+        - generic [ref=e80]: "1"
+      - button "Browse" [ref=e81] [cursor=pointer]
+      - button "Add Knowledge Post" [ref=e85] [cursor=pointer]
+      - button "Knowledge Base" [ref=e87] [cursor=pointer]
+      - button "Recommended" [active] [ref=e90] [cursor=pointer]
+      - button "Bookmarks" [ref=e93] [cursor=pointer]
+      - button "Knowledge Assistant" [ref=e97] [cursor=pointer]
+      - button "Manage Taxonomy" [ref=e100] [cursor=pointer]
+      - button "Users" [ref=e105] [cursor=pointer]
+      - button "Role Management" [ref=e118] [cursor=pointer]
+      - button "Role Assign" [ref=e122] [cursor=pointer]
+      - button "Site Settings" [ref=e127] [cursor=pointer]
+      - button "Notifications 3" [ref=e131] [cursor=pointer]:
+        - text: Notifications
+        - generic [ref=e135]: "3"
+    - button "Logout" [ref=e137] [cursor=pointer]
+  - main [ref=e141]:
+    - generic [ref=e494]:
+      - generic [ref=e496]:
+        - generic [ref=e497]: Curated For You
+        - generic [ref=e498]:
+          - heading "Recommended" [level=1] [ref=e499]
+          - paragraph [ref=e500]: Hand-picked guides, key technical walkthroughs, and featured learning materials highlighted by leadership.
+      - generic [ref=e501]:
+        - generic [ref=e502]:
+          - textbox "Search recommended resources by title, description, or department..." [ref=e504]
+          - combobox [ref=e510]:
+            - option "All Departments" [selected]
+            - option "Development Team"
+            - option "DevOps Team"
+            - option "HR Team"
+            - option "IT Team"
+            - option "Org"
+            - option "SQA Team"
+            - option "Testing Team"
+          - combobox [ref=e515]:
+            - option "Newest First" [selected]
+            - option "Oldest First"
+            - option "Title (A-Z)"
+        - generic [ref=e516]:
+          - button "All Recommended 5" [ref=e517] [cursor=pointer]:
+            - generic [ref=e518]: All Recommended
+            - generic [ref=e519]: "5"
+          - button "Videos 1" [ref=e520] [cursor=pointer]:
+            - generic [ref=e524]: Videos
+            - generic [ref=e525]: "1"
+          - button "Knowledge Posts 0" [ref=e526] [cursor=pointer]:
+            - generic [ref=e530]: Knowledge Posts
+            - generic [ref=e531]: "0"
+          - button "Task Guides 4" [ref=e532] [cursor=pointer]:
+            - generic [ref=e537]: Task Guides
+            - generic [ref=e538]: "4"
+      - generic [ref=e539]: Showing 5 recommendations
+      - generic [ref=e541]:
+        - article [ref=e542]:
+          - generic [ref=e543]:
+            - generic [ref=e544]:
+              - generic [ref=e545]: GG
+              - generic [ref=e547]:
+                - strong [ref=e548]: Gaurav Gaikwad
+                - generic [ref=e549]: IT Team
+                - generic [ref=e550]: · 3h ago
+            - generic [ref=e551]:
+              - generic [ref=e552]: Recommended Video
+              - button "Add bookmark" [ref=e556] [cursor=pointer]
+          - heading "[TEST] Video Submission 1788857085685" [level=3] [ref=e559] [cursor=pointer]
+          - paragraph [ref=e560]: Test video description
+          - button "Watch Video" [ref=e562] [cursor=pointer]
+        - article [ref=e565]:
+          - generic [ref=e566]:
+            - generic [ref=e567]:
+              - generic [ref=e568]: GG
+              - generic [ref=e570]:
+                - strong [ref=e571]: Gaurav Gaikwad
+                - generic [ref=e572]: Testing Team
+                - generic [ref=e573]: · 5d ago
+            - generic [ref=e574]:
+              - generic [ref=e575]: Recommended Task Guide
+              - button "Add bookmark" [ref=e579] [cursor=pointer]
+          - heading "SUDM DULB Master KT" [level=3] [ref=e582] [cursor=pointer]
+          - paragraph [ref=e583]: SUDM DULB Master Positive Flow
+          - generic [ref=e584]:
+            - generic [ref=e585]: Knowledge Transfer
+            - button "View Resource" [ref=e587] [cursor=pointer]
+        - article [ref=e590]:
+          - generic [ref=e591]:
+            - generic [ref=e592]:
+              - generic [ref=e593]: GG
+              - generic [ref=e595]:
+                - strong [ref=e596]: Gaurav Gaikwad
+                - generic [ref=e597]: Development Team
+                - generic [ref=e598]: · 6d ago
+            - generic [ref=e599]:
+              - generic [ref=e600]: Recommended Task Guide
+              - button "Add bookmark" [ref=e604] [cursor=pointer]
+          - heading "Redmine Training for Onsite Team" [level=3] [ref=e607] [cursor=pointer]
+          - paragraph [ref=e608]: Proper documentation to help the onsite team effectively use Redmine for project management, issue tracking, task assignment, progress monitoring, and team collaboration.
+          - generic [ref=e609]:
+            - generic [ref=e610]: Documentation
+            - button "View Resource" [ref=e612] [cursor=pointer]
+        - article [ref=e615]:
+          - generic [ref=e616]:
+            - generic [ref=e617]:
+              - generic [ref=e618]: SG
+              - generic [ref=e620]:
+                - strong [ref=e621]: Shailesh Gupta
+                - generic [ref=e622]: Testing Team
+                - generic [ref=e623]: · 6d ago
+            - generic [ref=e624]:
+              - generic [ref=e625]: Recommended Task Guide
+              - button "Add bookmark" [ref=e629] [cursor=pointer]
+          - heading "Auto-Heal Automation using Playwright MCP" [level=3] [ref=e632] [cursor=pointer]
+          - paragraph [ref=e633]: An AI-powered automation framework that automatically detects broken Playwright test scripts, identifies changed UI elements or locators, and intelligently updates them using Playwright MCP—reducing test maintenance and improving automation reliability.
+          - generic [ref=e634]:
+            - generic [ref=e635]: Documentation
+            - button "View Resource" [ref=e637] [cursor=pointer]
+        - article [ref=e640]:
+          - generic [ref=e641]:
+            - generic [ref=e642]:
+              - generic [ref=e643]: K
+              - generic [ref=e645]:
+                - strong [ref=e646]: Karthik
+                - generic [ref=e647]: · Aug 26, 2026
+            - generic [ref=e648]:
+              - generic [ref=e649]: Recommended Task Guide
+              - button "Add bookmark" [ref=e653] [cursor=pointer]
+          - heading "Regression Test Employee Task" [level=3] [ref=e656] [cursor=pointer]
+          - paragraph [ref=e657]: Testing task submission workflow
+          - generic [ref=e658]:
+            - generic [ref=e659]: Bug Report
+            - button "View Resource" [ref=e661] [cursor=pointer]

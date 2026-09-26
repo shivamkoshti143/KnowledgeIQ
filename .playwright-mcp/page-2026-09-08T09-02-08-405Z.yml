@@ -1,0 +1,22 @@
+- main [ref=e4433]:
+  - generic [ref=e4434]:
+    - generic [ref=e4435]:
+      - img "Logo" [ref=e4436]
+      - generic [ref=e4437]: ABM TaskIQ Portal
+    - generic [ref=e4438]: ABM LEARNING PORTAL
+    - heading "Modern task guidance and reusable knowledge, built for daily work." [level=1] [ref=e4439]
+    - paragraph [ref=e4440]: Browse approved walkthroughs, share operational know-how, and keep team learning moving without scattered documents.
+    - generic [ref=e4441]:
+      - generic [ref=e4442]: Centralized knowledge library
+      - generic [ref=e4447]: Video-first learning journeys
+      - generic [ref=e4452]: Discussion around every resource
+      - generic [ref=e4457]: Reviewed and approved content
+  - generic [ref=e4463]:
+    - heading "Sign in to the portal" [level=2] [ref=e4464]
+    - paragraph [ref=e4465]: Use your ABM account to continue.
+    - generic [ref=e4466]:
+      - generic [ref=e4467]:
+        - generic [ref=e4468]: Email Address
+        - textbox "name@abm.com" [ref=e4472]
+      - button "Send OTP" [ref=e4473] [cursor=pointer]
+    - button "Don't have an account? Create one" [ref=e4477] [cursor=pointer]
